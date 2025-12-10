@@ -518,6 +518,7 @@
         <li><a href="https://modrinth.com/resourcepack/artisanal-nether-bricks">Artisanal Nether Bricks</a> by 2DWisp</li>
         <li><a href="https://modrinth.com/resourcepack/artisans-armory">Artisans Armory</a> by Ragon</li>
         <li><a href="https://modrinth.com/resourcepack/atmospheric-skies-fog">Atmospheric Skies &amp; Fog</a> by kvquang</li>
+		<li><a href="https://modrinth.com/resourcepack/baby-animals-remastered">Baby Animals Remastered</a> by Futureazoo</li>
         <li><a href="https://modrinth.com/resourcepack/bare-bones-tweaks-alternate-bedrock">Bare Bones Tweaks - Alternate Bedrock</a> by BeagleNF4O4</li>
         <li><a href="https://modrinth.com/resourcepack/better-boats">Better Boats</a> by PystoyPlayer</li>
         <li><a href="https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books">Better Fresher 3D Books</a> by Braytonks &amp; cyberia</li>
