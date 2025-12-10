@@ -35,7 +35,7 @@ body:
     id: why
     attributes:
       label: Why it should be added into Long Haul?
-      description: List reasons about why this mod is needed to be included in Elysium Days.
+      description: List reasons about why this mod is needed to be included in Long Haul.
       placeholder: |
         1. It will make players more comfortable while playing the game
         2. It will make things easier WITHOUT breaking vanilla vibe.
