@@ -23,8 +23,8 @@ body:
     id: modpackversion
     attributes:
       label: Modpack Version
-      description: Which Elysium Days version you using?
-      placeholder: 3.5.0
+      description: Which Long Haul version you using?
+      placeholder: 1.0.0
     validations:
       required: true
   - type: textarea
@@ -41,7 +41,7 @@ body:
       label: Steps to reproduce
       description: Steps to reproduce the issue you're experiencing.
       placeholder: |
-        1. Install Latest Elysium Days
+        1. Install Latest Long Haul version
         2. Join A World
         3. Click the X block
         4. See the crash
