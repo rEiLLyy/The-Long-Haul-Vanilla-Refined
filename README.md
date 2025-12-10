@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/user-attachments/assets/864e9b63-34e6-47a3-ac55-d48e89aa863c" alt="The Long Haul Banner" style="width:100%; height:auto;">
 
 ### The Long Haul - Vanilla Refined
 ### A vanilla-plus experience that makes every milestone matter!
