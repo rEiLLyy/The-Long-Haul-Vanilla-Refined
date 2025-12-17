@@ -487,7 +487,7 @@
 
 <details>
 
-<summary>Resource Packs (27)</summary>
+<summary>Resource Packs (55)</summary>
 
 #### Main Resource Packs (21)
 
