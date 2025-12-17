@@ -3,7 +3,7 @@
 <details>
 <summary>Mod List (293)</summary>
 <ul>
-	<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a> by tr7zw</li>
+<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a> by tr7zw</li>
 	<li><a href="https://modrinth.com/mod/pNabrMMw">AE2WTLib</a> by mari_023, Ridanisaurus</li>
 	<li><a href="https://modrinth.com/mod/jtmvUHXj">Accessories</a> by Blodhgarm, chyzman, Dr.Zeal</li>
 	<li><a href="https://modrinth.com/mod/kzwxhsjp">Accurate Block Placement</a> by Clayborn, Flourick, KadTheHunter, schwar</li>
@@ -77,6 +77,7 @@
 	<li><a href="https://modrinth.com/mod/Wnxd13zP">Clumps</a> by Jaredlll08</li>
 	<li><a href="https://modrinth.com/mod/KZAmykow">Clutter</a> by EmilSG</li>
 	<li><a href="https://modrinth.com/mod/UnAEo77V">Cluttered</a> by blake, MCreator</li>
+	<li><a href="https://modrinth.com/mod/dQcfqGbl">Cobweb</a> by Crystal Spider, Moonstone Webber, Noir</li>
 	<li><a href="https://modrinth.com/mod/e0M1UDsY">Collective</a> by Rick South</li>
 	<li><a href="https://modrinth.com/mod/lOZBoyio">Comfortable Campfires</a> by cassiancc</li>
 	<li><a href="https://modrinth.com/mod/SaCpeal4">Comforts</a> by Illusive Soulworks</li>
@@ -91,36 +92,11 @@
 	<li><a href="https://modrinth.com/mod/rLLJ1OZM">CoroUtil</a> by Corosus</li>
 	<li><a href="https://modrinth.com/mod/EY9MoDwW">Craftable Knowledge Book</a> by fishbowlforever</li>
 	<li><a href="https://modrinth.com/mod/H1JOVjhn">Crawl</a> by fewizz, McSkinnerOG, Chocohead</li>
-	<li><a href="https://modrinth.com/mod/Xbc0uyRg">Create</a> by Fabricators of Create, Creators of Create</li>
-	<li><a href="https://modrinth.com/mod/ihpnEd80">Create Cobblestone</a> by MrStickyPiston</li>
-	<li><a href="https://modrinth.com/mod/ib8iIkX3">Create Crafts &amp; (More) Additions</a> by robinfrt</li>
-	<li><a href="https://modrinth.com/mod/kU1G12Nn">Create Crafts &amp; Additions</a> by MRH0</li>
-	<li><a href="https://modrinth.com/mod/sMvUb4Rb">Create Deco</a> by Kayla, Talrey</li>
-	<li><a href="https://modrinth.com/mod/zMna5NU5">Create Diesel Generators</a> by george8188625, MrSterner, Bugord, mircey</li>
-	<li><a href="https://modrinth.com/mod/L1RT5SJc">Create Goggles</a> by Robocraft999</li>
-	<li><a href="https://modrinth.com/mod/GmjmRQ0A">Create Slice &amp; Dice</a> by possible_triangle</li>
-	<li><a href="https://modrinth.com/mod/jv0UKGOX">Create: Big Contraptions</a> by MuriPlz</li>
-	<li><a href="https://modrinth.com/mod/QtkeMX9L">Create: Connected [Fabric]</a> by Lysine, sashafiesta</li>
-	<li><a href="https://modrinth.com/mod/UT2M39wf">Create: Copycats+</a> by Lysine, Bennyboy1695, Redcat_XVIII</li>
-	<li><a href="https://modrinth.com/mod/JmybsfWs">Create: Dreams &amp; Desires</a> by LopyLuna (Original Creator, The Sappho Company (Fabric port)</li>
-	<li><a href="https://modrinth.com/mod/r4Knci2k">Create: Interiors</a> by sudolev, rdh</li>
-	<li><a href="https://modrinth.com/mod/nxngzmTl">Create: Lazy Engines</a> by NatiM6</li>
-	<li><a href="https://modrinth.com/mod/5ZuwMbpk">Create: Molten Metals</a> by Ordana, Kayla_the_bee</li>
-	<li><a href="https://modrinth.com/mod/FTeXqI9v">Create: New Age</a> by Antarctic Gardens</li>
-	<li><a href="https://modrinth.com/mod/X9kjRZeX">Create: Oxidized</a> by Pyzpre</li>
-	<li><a href="https://modrinth.com/mod/lmbZMkEZ">Create: Rustic Structures</a> by robinfrt</li>
-	<li><a href="https://modrinth.com/mod/KKlx33Ch">Create: Stones</a> by 0xDED</li>
-	<li><a href="https://modrinth.com/mod/IAnP4np7">Create: Structures</a> by FusionSwarly</li>
-	<li><a href="https://modrinth.com/mod/9enMEvoc">Create: Structures Arise</a> by SmartStreamLabs</li>
-	<li><a href="https://modrinth.com/mod/WROfLLvn">Create: Trading Floor</a> by Tazer, Cak</li>
-	<li><a href="https://modrinth.com/mod/N9QToVpw">Create: Ultimate Factory</a> by robinfrt</li>
-	<li><a href="https://modrinth.com/mod/py6IRdZ8">CreateZ</a> by Findict</li>
 	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> by CreativeMD, AriaFreeze</li>
 	<li><a href="https://modrinth.com/mod/MI1LWe93">Creeper Overhaul</a> by Artist/Creator - Joosh, Dev - ThatGravyBoat</li>
 	<li><a href="https://modrinth.com/mod/cl223EMc">Cristel Lib</a> by Cristelknight999</li>
 	<li><a href="https://modrinth.com/mod/Yd4wb5wZ">Critters and Companions</a> by Joosh, EterDelta</li>
 	<li><a href="https://modrinth.com/mod/4iW8x023">CropXp</a> by uema5a</li>
-	<li><a href="https://modrinth.com/mod/h7QgiH72">Crystal-Clear</a></li>
 	<li><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a> by Kir_Antipov</li>
 	<li><a href="https://modrinth.com/mod/Dk6su9JN">Cut Through</a> by Fuzs</li>
 	<li><a href="https://modrinth.com/mod/sToyLl7P">DTN's Palette Of Paws</a> by dashiedev, mashxp</li>
@@ -170,13 +146,13 @@
 	<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> by Traben</li>
 	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling</a> by tr7zw</li>
 	<li><a href="https://modrinth.com/mod/8xdxVRnh">Even more LevelZ support</a> by aslakm</li>
+	<li><a href="https://modrinth.com/mod/a8H99agr">Exp Ores</a> by TriQue</li>
 	<li><a href="https://modrinth.com/mod/O1XGs7ps">Expanded Ecosphere</a> by Cristelknight999, William Wythers</li>
 	<li><a href="https://modrinth.com/mod/pcGnjJ39">Explorations</a> by Buecher_wurm</li>
 	<li><a href="https://modrinth.com/mod/RV1qfVQ8">Explorer's Compass</a> by ChaosTheDude</li>
 	<li><a href="https://modrinth.com/mod/HSfsxuTo">Explorify</a> by bebebea_loste</li>
 	<li><a href="https://modrinth.com/mod/OSQ8mw2r">Explosive Enhancement</a> by Superkat32</li>
 	<li><a href="https://modrinth.com/mod/tb7kCxSW">Extended Block Shapes</a> by SolidBlock</li>
-	<li><a href="https://modrinth.com/mod/qO4lsa4Y">Extended Cogwheels</a> by Rabbitminers</li>
 	<li><a href="https://modrinth.com/mod/gulQYoue">FDRF - Delightful Creators Recipe Fix</a> by taguima</li>
 	<li><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a> by FabricMC</li>
 	<li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> by FabricMC</li>
@@ -206,7 +182,6 @@
 	<li><a href="https://modrinth.com/mod/TbriQCWD">GeckoLibIrisCompat</a> by ElocinDev</li>
 	<li><a href="https://modrinth.com/mod/hl5OLM95">Geophilic</a> by bebebea_loste</li>
 	<li><a href="https://modrinth.com/mod/QYfKDJOV">Gipples Galore</a> by Rowan, Monozari, sawlferton, Uraneptus, KingRolly, gaytwinkfemboy</li>
-	<li><a href="https://modrinth.com/mod/s3dmwKy5">GlitchCore</a> by Adubbz</li>
 	<li><a href="https://modrinth.com/mod/1S4LxcvL">Glowing Torchflower</a> by NikitaCartes</li>
 	<li><a href="https://modrinth.com/mod/6eYcaK0y">Good Recipes</a> by JotaPanden</li>
 	<li><a href="https://modrinth.com/mod/WC4UgDcZ">Grind Enchantments</a> by mschae23</li>
@@ -258,6 +233,7 @@
 	<li><a href="https://modrinth.com/mod/AVq17PqV">Leaves Be Gone</a> by Fuzs</li>
 	<li><a href="https://modrinth.com/mod/4NooE2hx">Lectern Overhaul</a> by Bimba</li>
 	<li><a href="https://modrinth.com/mod/nLlXyNIc">Let Sleeping Dogs Lie</a> by iChun</li>
+	<li><a href="https://modrinth.com/mod/gYeJFXyI">LetsDoCompatLevelZ</a> by xR4YM0ND</li>
 	<li><a href="https://modrinth.com/mod/EFtixeiF">LevelZ</a> by Globox_Z</li>
 	<li><a href="https://modrinth.com/mod/D2VVZrl3">LevelZ Additions</a> by HANAKZ, awdrewar, Caidrox</li>
 	<li><a href="https://modrinth.com/mod/WKwQAwke">LibJF</a> by JFronny</li>
@@ -303,6 +279,8 @@
 	<li><a href="https://modrinth.com/mod/MK1OVEeD">More Smithing Tables Z</a> by LogLauncher</li>
 	<li><a href="https://modrinth.com/mod/8HxZnUY7">More Smoker Variants</a> by pnku, LieOnLion</li>
 	<li><a href="https://modrinth.com/mod/SoudCM4l">More Smoker Variants Z</a> by LogLauncher</li>
+	<li><a href="https://modrinth.com/mod/ZVv4e6pP">More Stick Variants (MStV)</a> by pnku</li>
+	<li><a href="https://modrinth.com/mod/SD0XUjSm">More Torch Variants (MStV+)</a> by pnku</li>
 	<li><a href="https://modrinth.com/mod/il1Aa7hO">More Variants</a> by Sygikal</li>
 	<li><a href="https://modrinth.com/mod/aC3cM3Vq">Mouse Tweaks</a> by Ivan Molodetskikh (YaLTeR)</li>
 	<li><a href="https://modrinth.com/mod/WWbGcW12">Music Disc Advancements</a> by ALDgamer</li>
@@ -415,6 +393,7 @@
 	<li><a href="https://modrinth.com/mod/LQlQFBH9">Stacked Blocks: Farmer's Delight</a> by Axperty</li>
 	<li><a href="https://modrinth.com/mod/vgtM0kV7">Stacked Blocks: Supplementaries</a> by Axperty</li>
 	<li><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a> by Neecko5b84</li>
+	<li><a href="https://modrinth.com/mod/ZPywkPEo">Steve's Realistic Sleep</a> by Steveplays28</li>
 	<li><a href="https://modrinth.com/mod/FzyTKtVF">Stoneworks</a> by Fuzs</li>
 	<li><a href="https://modrinth.com/mod/roNyMh7K">Storable Experience</a> by Diesse</li>
 	<li><a href="https://modrinth.com/mod/DKknxXqy">Stormfest</a> by Sydist: Programming, MisterKaze: Concept &amp; Music, Hitsuu: Design &amp; Art</li>
@@ -439,6 +418,7 @@
 	<li><a href="https://modrinth.com/mod/A2xcMSUn">Tiny Skeletons</a> by Fuzs</li>
 	<li><a href="https://modrinth.com/mod/uXeEiQk1">Tool Trims</a> by JoeFly</li>
 	<li><a href="https://modrinth.com/mod/4jBWaiuq">Tooltip Rareness</a> by Globox_Z</li>
+	<li><a href="https://modrinth.com/mod/zTOq9jEI">Torch hit!</a> by Crystal Spider, Moonstone Webber, Noir</li>
 	<li><a href="https://modrinth.com/mod/qpPoAL6m">Trade Cycling</a> by Max Henkel</li>
 	<li><a href="https://modrinth.com/mod/8pcjMDgj">Trading Post</a> by Fuzs</li>
 	<li><a href="https://modrinth.com/mod/Koee7vhY">Trail&amp;Tales Delight</a> by shuixingshow, Vzling</li>
@@ -489,6 +469,7 @@
 	<li><a href="https://modrinth.com/mod/HJetCzWo">[Let's Do] Farm &amp; Charm</a> by satisfy, jason13official</li>
 	<li><a href="https://modrinth.com/mod/3JQDJrYW">[Let's Do] Furniture</a> by berksire, satisfy, cph101</li>
 	<li><a href="https://modrinth.com/mod/Eh11TaTm">[Let's Do] HerbalBrews</a> by satisfy</li>
+	<li><a href="https://modrinth.com/mod/ra7o6Sl7">[Let's Do] Meadow</a> by satisfy, Jason13</li>
 	<li><a href="https://modrinth.com/mod/4TTDxtOx">[Let's Do] NetherVinery</a> by satisfy</li>
 	<li><a href="https://modrinth.com/mod/1DWmBJVA">[Let's Do] Vinery</a> by Jason13Official, Satisfy</li>
 	<li><a href="https://modrinth.com/mod/1FeCSXTY">craftquests music disc collection</a> by craftquest</li>
