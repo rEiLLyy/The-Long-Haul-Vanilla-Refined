@@ -1,4 +1,4 @@
-[The Long Haul Vanilla Refined 1.0.5.html](https://github.com/user-attachments/files/24224189/The.Long.Haul.Vanilla.Refined.1.0.5.html)# Full List Of The Long Haul Content
+# Full List Of The Long Haul Content
 
 <details>
 
