@@ -2,560 +2,555 @@
 
 <details>
 
-<summary>Mod List (479)</summary>
+<summary>Mod List (495)</summary>
 <ul>
-	<li><a href="https://modrinth.com/mod/zV5r3pPn">3d-Skin-Layers</a> by tr7zw</li>
-	<li><a href="https://modrinth.com/mod/pNabrMMw">AE2WTLib</a> by mari_023, Ridanisaurus</li>
-	<li><a href="https://modrinth.com/mod/jtmvUHXj">Accessories</a> by Blodhgarm, chyzman, Dr.Zeal</li>
-	<li><a href="https://modrinth.com/mod/kzwxhsjp">Accurate Block Placement</a> by Clayborn, Flourick, KadTheHunter, schwar</li>
-	<li><a href="https://modrinth.com/mod/jXNvTKds">Additional Lanterns</a> by SuperMartijn642</li>
-	<li><a href="https://modrinth.com/mod/9NM0dXub">Advancement Plaques</a> by Grend</li>
-	<li><a href="https://modrinth.com/mod/DyTvM1dv">Ambient Environment</a> by Jaredlll08</li>
-	<li><a href="https://modrinth.com/mod/fM515JnW">AmbientSounds</a> by CreativeMD</li>
-	<li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> by MehVahdJukaar</li>
-	<li><a href="https://modrinth.com/mod/oggXYZsw">Anti Enderman Grief</a> by derexXD</li>
-	<li><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a> by squeek502</li>
-	<li><a href="https://modrinth.com/mod/XxWD5pD3">Applied Energistics 2</a> by TeamAppliedEnergistics</li>
-	<li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> by shedaniel</li>
-	<li><a href="https://modrinth.com/mod/YxCEfYbF">Armor Quick Swap</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/GWFnD2zx">Armor Stand Arms</a> by Jodek</li>
-	<li><a href="https://modrinth.com/mod/bbGCtEvb">Armor Statues</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/b1ZV3DIJ">Athena</a> by ThatGravyBoat</li>
-	<li><a href="https://modrinth.com/mod/lOOpEntO">AttributeFix</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/UafsfA4K">Auditory</a> by Sydokiddo (Developer), AmberSand (Additional Sounds)</li>
-	<li><a href="https://modrinth.com/mod/1jvt7RTc">Axes Are Weapons</a> by Fourmisain</li>
-	<li><a href="https://modrinth.com/mod/pduQXSbl">AzureLib Armor</a> by AzureDoom, Gecko, Eliot, Hydos, DerToaster, Tslat, KyoSleep, Bvanseg</li>
-	<li><a href="https://modrinth.com/mod/MBAkmtvl">Balm</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/EOig9U0j">Bartering Station</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/mtIxmNw5">Beautified Chat Client</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/DhSSvaxs">Beautify</a> by Suel_ki</li>
-	<li><a href="https://modrinth.com/mod/Q2OqKxDG">Better Advancements</a> by way2muchnoise</li>
-	<li><a href="https://modrinth.com/mod/OoOVj3J3">Better Animations Collection</a> by KodaichiZero, Fuzs</li>
-	<li><a href="https://modrinth.com/mod/ZucWZEBV">Better Climbing</a> by artemis</li>
-	<li><a href="https://modrinth.com/mod/l3hWTlyy">Better Flight</a> by NotchArrow, AtlasM8, RejahTavi</li>
-	<li><a href="https://modrinth.com/mod/CvgtCmGj">Better Ladders</a> by meee</li>
-	<li><a href="https://modrinth.com/mod/sLN1LU6K">Better Lush Caves</a> by EMD123</li>
-	<li><a href="https://modrinth.com/mod/fdtm99de">Better Nether Map</a> by Jummit</li>
-	<li><a href="https://modrinth.com/mod/CPzAGS06">Better Sniffers</a> by o-Peepo</li>
-	<li><a href="https://modrinth.com/mod/G1s2WpNo">Better Third Person</a> by Socolio, DreenDex</li>
-	<li><a href="https://modrinth.com/mod/KNUSlHiU">Better Tridents</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/aUp4r9hY">BetterSafeBed</a> by frankV</li>
-	<li><a href="https://modrinth.com/mod/Lvv4SHrK">BetterThanMending</a> by legobmw99</li>
-	<li><a href="https://modrinth.com/mod/bSKJNoQF">Blasting Plus</a> by 5imModding</li>
-	<li><a href="https://modrinth.com/mod/UT8WxaW1">Blaze Attack Animation</a> by Unknowneth</li>
-	<li><a href="https://modrinth.com/mod/1VSGxqkt">Block Runner</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/Ds9FyUc7">Blooming Biosphere</a> by _humanoid</li>
-	<li><a href="https://modrinth.com/mod/NK39zBp2">Blur (Fabric)</a> by tterrag1098, Motschen, Pyrofab, backryun, byquanton</li>
-	<li><a href="https://modrinth.com/mod/BdKIyOLe">Boat Item View Fabric</a> by 50ap5ud5, Treblero</li>
-	<li><a href="https://modrinth.com/mod/M08ruV16">Bobby</a> by johni0702</li>
-	<li><a href="https://modrinth.com/mod/uy4Cnpcm">Bookshelf</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/U6BUTZ7K">BotanyPots</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/fvMhZPuf">BotanyPotsTiers</a> by Ultramega</li>
-	<li><a href="https://modrinth.com/mod/mvs7RoIW">BotanyTrees</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/2u6LRnMa">Botarium</a> by CodexAdrian</li>
-	<li><a href="https://modrinth.com/mod/O2WJc0f3">Brainier Bees</a> by dopadream</li>
-	<li><a href="https://modrinth.com/mod/jOIgZdUe">Builders Dream</a> by fishbowlforever</li>
-	<li><a href="https://modrinth.com/mod/IwCkru1D">CICADA</a> by enjarai</li>
-	<li><a href="https://modrinth.com/mod/otVJckYQ">CIT Resewn</a> by SHsuperCM</li>
-	<li><a href="https://modrinth.com/mod/K01OU20C">Cardinal Components API</a> by UpcraftLP, Pyrofab</li>
-	<li><a href="https://modrinth.com/mod/joEfVgkn">Carry On</a> by Tschipp, Purplicious_Cow, cy4n</li>
-	<li><a href="https://modrinth.com/mod/jawg7zT1">Cave Dust</a> by LizIsTired</li>
-	<li><a href="https://modrinth.com/mod/b5GyyYkp">Charm of Undying</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/DnNYdJsx">ChatAnimation</a> by Ezzenix</li>
-	<li><a href="https://modrinth.com/mod/Wb5oqrBJ">Chat Heads</a> by dzwdz, Fourmisain</li>
+	<li><a href="https://modrinth.com/mod/3dskinlayers">3d-Skin-Layers</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/mod/applied-energistics-2-wireless-terminals">AE2WTLib</a> by mari_023, Ridanisaurus</li>
+	<li><a href="https://wispforest.io/">Accessories</a> by Blodhgarm, chyzman, Dr.Zeal</li>
+	<li><a href="https://modrinth.com/mod/accurate-block-placement-reborn">Accurate Block Placement</a> by Clayborn, Flourick, KadTheHunter, schwar</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric">Advanced Netherite</a> by Autovw</li>
+	<li><a href="https://anthonyhilyard.com/">Advancement Plaques</a> by Grend</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/ambient-environment">Ambient Environment</a> by Jaredlll08</li>
+	<li><a href="https://modrinth.com/mod/ambientsounds">AmbientSounds</a> by CreativeMD</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/amendments">Amendments</a> by MehVahdJukaar</li>
+	<li><a href="https://minecraft.curseforge.com/projects/appleskin">AppleSkin</a> by squeek502</li>
+	<li><a href="https://appliedenergistics.github.io/">Applied Energistics 2</a> by TeamAppliedEnergistics</li>
+	<li><a href="https://architectury.github.io/architectury-documentations/">Architectury</a> by shedaniel</li>
+	<li><a href="https://github.com/Fuzss/armorquickswap">Armor Quick Swap</a> by Fuzs</li>
+	<li><a href="https://curseforge.com/minecraft/mc-mods/armor-trim-item-fix">Armor Trim Item Fix</a> by MincraftEinstein</li>
+	<li>Athena by ThatGravyBoat</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/attributefix">AttributeFix</a> by Darkhax</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/auditory">Auditory</a> by Sydokiddo (Developer), AmberSand (Additional Sounds)</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons">Axes Are Weapons</a> by Fourmisain</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/be-style-wither">BE Style Wither</a> by MORIMORI0317</li>
+	<li><a href="https://mods.twelveiterations.com/">Balm</a> by BlayTheNinth</li>
+	<li><a href="https://github.com/Fuzss/barteringstation">Bartering Station</a> by Fuzs</li>
+	<li><a href="https://serilum.com/mod/beautified-chat-client">Beautified Chat Client</a> by Rick South</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated">Beautify</a> by Suel_ki</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-advancements">Better Advancements</a> by way2muchnoise</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/better-archeology">Better Archeology</a> by Pandarix, Dunk3ll1cht</li>
+	<li>Better Climbing by artemis</li>
+	<li><a href="https://serilum.com/mod/better-conduit-placement">Better Conduit Placement</a> by Rick South</li>
+	<li><a href="https://github.com/NotchArrow/BetterFlight">Better Flight</a> by NotchArrow, AtlasM8, RejahTavi</li>
+	<li>Better Ladders by meee</li>
+	<li><a href="https://modrinth.com/datapack/better-lush-caves">Better Lush Caves</a> by EMD123</li>
+	<li><a href="https://modrinth.com/mod/better-nether-map">Better Nether Map</a> by Jummit</li>
+	<li><a href="https://modrinth.com/mod/betternightvision">Better Night Vision</a> by Microcontrollers</li>
+	<li><a href="https://github.com/vladmarica/better-ping-display-fabric">Better Ping Display</a> by Quintinity</li>
+	<li><a href="https://modrinth.com/datapack/better-sniffers">Better Sniffers</a> by o-Peepo</li>
+	<li><a href="https://github.com/Fuzss/bettertridents">Better Tridents</a> by Fuzs</li>
+	<li>Better Trim Tooltips by Andrew6rant (Andrew Grant)</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-safe-bed">BetterSafeBed</a> by frankV</li>
+	<li>BetterThanMending by legobmw99</li>
+	<li><a href="https://modrinth.com/datapack/blasting-plus">Blasting Plus</a> by 5imModding</li>
+	<li><a href="https://modrinth.com/mod/blasting-raw-metal-blocks-into-blocks">Blasting Raw Metal Blocks</a> by Mars</li>
+	<li><a href="https://modrinth.com/datapack/blooming-biosphere">Blooming Biosphere</a> by _humanoid</li>
+	<li><a href="https://modrinth.com/mod/blur-fabric">Blur (Fabric)</a> by tterrag1098, Motschen, Pyrofab, backryun, byquanton</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/boat-item-view">Boat Item View Fabric</a> by 50ap5ud5, Treblero</li>
+	<li>Boids</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf</a> by Darkhax</li>
+	<li><a href="https://modrinth.com/mod/breakfree">Break Free</a> by Potota</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/bushier-flowers">Bushier Flowers</a> by Pandarix</li>
+	<li><a href="https://enjarai.dev/">CICADA</a> by enjarai</li>
+	<li><a href="https://citresewn.shcm.io/">CIT Resewn</a> by SHsuperCM</li>
+	<li><a href="https://modrinth.com/datapack/ctov-beautify-compat">CTOV - Beautify Compat</a> by ChoiceTheorem</li>
+	<li><a href="https://modrinth.com/datapack/ctov-friends-and-foes-compat">CTOV - Friends and Foes Compat</a> by ChoiceTheorem</li>
+	<li>Cake Chomps by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/calm-down-dog">Calm down, dog!</a> by F14M3</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/capes">Capes</a> by Cael</li>
+	<li><a href="https://tschipp.ch/">Carry On</a> by Tschipp, Purplicious_Cow, cy4n</li>
+	<li><a href="https://modrinth.com/datapack/catenary">Catenary</a> by Eroxen</li>
+	<li>Cave Dust by LizIsTired</li>
+	<li>Charm of Undying by Illusive Soulworks</li>
+	<li>Chat Heads by dzwdz, Fourmisain</li>
 	<li><a href="https://modrinth.com/mod/MOqt4Z5n">Chat Patches</a> by OBro1961</li>
-	<li><a href="https://modrinth.com/mod/ZLppFg51">Cheaper Maps</a> by Sorcell</li>
-	<li><a href="https://modrinth.com/mod/3azQ6p0W">Cherished Worlds</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/BAscRYKm">Chipped</a> by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat</li>
-	<li><a href="https://modrinth.com/mod/JaNmzvA8">Chunks Fade In</a> by Koteinik</li>
-	<li><a href="https://modrinth.com/mod/5lvjfaRs">Clean F3</a> by tyrannus</li>
-	<li><a href="https://modrinth.com/mod/vMoHe8uI">Clean Tooltips</a> by stal111</li>
-	<li><a href="https://modrinth.com/mod/fJi8nm80">ClickThrough Plus</a> by cassiancc</li>
-	<li><a href="https://modrinth.com/mod/vPNqo58Q">Client Tweaks</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/DzZWws4q">Climate Rivers</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/9s6osm5g">Cloth Config v11</a> by shedaniel</li>
-	<li><a href="https://modrinth.com/mod/w5fammEF">Cloudflared</a> by Zeitheron</li>
-	<li><a href="https://modrinth.com/mod/Wnxd13zP">Clumps</a> by Jaredlll08</li>
-	<li><a href="https://modrinth.com/mod/KZAmykow">Clutter</a> by EmilSG</li>
-	<li><a href="https://modrinth.com/mod/UnAEo77V">Cluttered</a> by blake, MCreator</li>
-	<li><a href="https://modrinth.com/mod/dQcfqGbl">Cobweb</a> by Crystal Spider, Moonstone Webber, Noir</li>
-	<li><a href="https://modrinth.com/mod/e0M1UDsY">Collective</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/lOZBoyio">Comfortable Campfires</a> by cassiancc</li>
-	<li><a href="https://modrinth.com/mod/SaCpeal4">Comforts</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/iSCGCCV1">Completionist's Index</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/3WjjSM5O">Configuration</a> by Toma</li>
-	<li><a href="https://modrinth.com/mod/SISoSFPP">Configured Defaults</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/ykSfIgTw">Connectible Chains</a> by legoatoom</li>
-	<li><a href="https://modrinth.com/mod/1IjD5062">Continuity</a> by PepperCode1</li>
-	<li><a href="https://modrinth.com/mod/xv94TkTM">Controlling For Fabric</a> by Jaredlll08</li>
-	<li><a href="https://modrinth.com/mod/iDyqnQLT">CoolRain</a> by Jaiz</li>
-	<li><a href="https://modrinth.com/mod/vdIUVEqI">Copper Rails</a> by Rob0fox</li>
-	<li><a href="https://modrinth.com/mod/rLLJ1OZM">CoroUtil</a> by Corosus</li>
-	<li><a href="https://modrinth.com/mod/EY9MoDwW">Craftable Knowledge Book</a> by fishbowlforever</li>
-	<li><a href="https://modrinth.com/mod/H1JOVjhn">Crawl</a> by fewizz, McSkinnerOG, Chocohead</li>
-	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> by CreativeMD, AriaFreeze</li>
-	<li><a href="https://modrinth.com/mod/MI1LWe93">Creeper Overhaul</a> by Artist/Creator - Joosh, Dev - ThatGravyBoat</li>
-	<li><a href="https://modrinth.com/mod/cl223EMc">Cristel Lib</a> by Cristelknight999</li>
-	<li><a href="https://modrinth.com/mod/Yd4wb5wZ">Critters and Companions</a> by Joosh, EterDelta</li>
-	<li><a href="https://modrinth.com/mod/4iW8x023">CropXp</a> by uema5a</li>
-	<li><a href="https://modrinth.com/mod/ETlrkaYF">Cubes Without Borders</a> by Kir_Antipov</li>
-	<li><a href="https://modrinth.com/mod/o5fhgLeQ">Minecraft Cursor</a> by fishstiz</li>
-	<li><a href="https://modrinth.com/mod/Dk6su9JN">Cut Through</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/h3XWIuzM">Dark Loading Screen</a> by Neecko5b84</li>
-	<li><a href="https://modrinth.com/mod/H7ktFfSH">Dark Window Bar</a> by Toni</li>
-	<li><a href="https://modrinth.com/mod/lFGQ4Hnk">DarkPaintings</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/meZK2DCX">Dawn API</a> by Hugman</li>
-	<li><a href="https://modrinth.com/mod/RgWXq0La">Dawn Of Time</a> by Poulpinou &amp; TheGoldenWorld</li>
-	<li><a href="https://modrinth.com/mod/t6BIRVZn">Decorative Blocks</a> by Lilypuree, Stohun</li>
-	<li><a href="https://modrinth.com/mod/WQaxNzFg">Deimos</a> by Mars</li>
-	<li><a href="https://modrinth.com/mod/sCnO4R7e">Delightful Chefs</a> by average_anime</li>
-	<li><a href="https://modrinth.com/mod/jmJ87gsb">Delightful Creators</a> by Flomik</li>
-	<li><a href="https://modrinth.com/mod/hAt6ty93">Detail Armor Bar</a> by RedLime</li>
-	<li><a href="https://modrinth.com/mod/Xs0XTOVv">DhApi</a></li>
-	<li><a href="https://modrinth.com/mod/IKARgflD">Diagonal Fences</a> by Fuzs, XFactHD</li>
-	<li><a href="https://modrinth.com/mod/FQgc8dib">Diagonal Walls</a> by Fuzs, XFactHD</li>
-	<li><a href="https://modrinth.com/mod/oOi0CKes">Diagonal Windows</a> by Fuzs, XFactHD</li>
-	<li><a href="https://modrinth.com/mod/uCdwusMi">Distant Horizons</a></li>
-	<li><a href="https://modrinth.com/mod/oXgmplvv">Doggy Talents Next</a> by DashieDev, MashXP</li>
-	<li><a href="https://modrinth.com/mod/sToyLl7P">DTN's Palette Of Paws</a> by dashiedev, mashxp</li>
-	<li><a href="https://modrinth.com/mod/v3CYg2V9">Drippy Loading Screen</a> by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/abiELH6a">DropSpread</a> by TorNato</li>
-	<li><a href="https://modrinth.com/mod/jkb861Ih">Duckling</a> by Artist - Frogipher, Dev - ThatGravyBoat</li>
-	<li><a href="https://modrinth.com/mod/DqKMBArS">Dumpling's Delight Rewrapped</a> by Joshcraft2002</li>
-	<li><a href="https://modrinth.com/mod/smUP7V3r">Durability Tooltip</a> by SuperMartijn642</li>
-	<li><a href="https://modrinth.com/mod/RPJED5Ye">Durability Visibility Options</a> by Danrus110_</li>
-	<li><a href="https://modrinth.com/mod/AqwE7J9O">Dye Tweaks</a> by aurum</li>
-	<li><a href="https://modrinth.com/mod/LQ3K71Q1">Dynamic FPS</a> by juliand665, LostLuma</li>
-	<li><a href="https://modrinth.com/mod/H7fshfpD">Dynamic Surroundings</a> by OreCruncher</li>
-	<li><a href="https://modrinth.com/mod/fRiHVvU7">EMI</a> by Emi</li>
-	<li><a href="https://modrinth.com/mod/OZBR5JT5">Easy Anvils</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/9hx3AbJM">Easy Magic</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/gA5euN8S">Easy Shulker Boxes</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/rUgZvGzi">Eating Animation</a> by theone_ss, spusik_, PinkGoosik, DoctorNight1</li>
-	<li><a href="https://modrinth.com/mod/m3pkVbY8">Echo Chest</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/OoF97Pto">Effectual</a> by iMeeTake</li>
-	<li><a href="https://modrinth.com/mod/fistYdrA">ElementZ</a> by wekt</li>
-	<li><a href="https://modrinth.com/mod/c9J3k0tK">Elytra Drag</a> by bl4st</li>
-	<li><a href="https://modrinth.com/mod/mSQF1NpT">Elytra Slot</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/TG1cHkRf">Enchanted Vertical Slabs</a> by Enchanted_Games</li>
-	<li><a href="https://modrinth.com/mod/ePv85y52">Enchanting Infuser</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/UVtY3ZAC">EnchantmentDescriptions</a> by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> by MrGenie151</li>
-	<li><a href="https://modrinth.com/mod/CUQhzQjg">Ender Zoology</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/2uEhdGKt">Ender's Delight Refabricated</a> by Axedgaming, Furti Two</li>
-	<li><a href="https://modrinth.com/mod/OVuFYfre">Enhanced Block Entities</a> by FoundationGames</li>
-	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling</a> by tr7zw</li>
-	<li><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a> by Traben</li>
-	<li><a href="https://modrinth.com/mod/4OeMBkiG">epicvillages</a> by ATi</li>
-	<li><a href="https://modrinth.com/mod/8xdxVRnh">Even more LevelZ support</a> by aslakm</li>
-	<li><a href="https://modrinth.com/mod/a8H99agr">Exp Ores</a> by TriQue</li>
-	<li><a href="https://modrinth.com/mod/O1XGs7ps">Expanded Ecosphere</a> by Cristelknight999, William Wythers</li>
-	<li><a href="https://modrinth.com/mod/pcGnjJ39">Explorations</a> by Buecher_wurm</li>
-	<li><a href="https://modrinth.com/mod/RV1qfVQ8">Explorer's Compass</a> by ChaosTheDude</li>
-	<li><a href="https://modrinth.com/mod/HSfsxuTo">Explorify</a> by bebebea_loste</li>
-	<li><a href="https://modrinth.com/mod/OSQ8mw2r">Explosive Enhancement</a> by Superkat32</li>
-	<li><a href="https://modrinth.com/mod/tb7kCxSW">Extended Block Shapes</a> by SolidBlock</li>
-	<li><a href="https://modrinth.com/mod/gulQYoue">FDRF - Delightful Creators Recipe Fix</a> by taguima</li>
-	<li><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a> by FabricMC</li>
-	<li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> by FabricMC</li>
-	<li><a href="https://modrinth.com/mod/q4N9H96q">Faewulf's Lib</a> by Faewulf</li>
-	<li><a href="https://modrinth.com/mod/WhbRG4iK">Falling Leaves</a> by Fourmisain, BrekiTomasson, RandomMcSomethin</li>
-	<li><a href="https://modrinth.com/mod/Wq5SjeWM">FancyMenu</a> by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/7vxePowz">Farmer's Delight</a> by MehVahdJukaar, MerchantPug</li>
-	<li><a href="https://modrinth.com/mod/OIfTXyD3">Farmerz Delightz</a> by Findict</li>
-	<li><a href="https://modrinth.com/mod/FsoeTIV0">Fast Item Frames</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/uXXizFIs">FerriteCore</a> by malte0811</li>
-	<li><a href="https://modrinth.com/mod/MIdaKqt7">FishingReal</a> by PricelessKoala</li>
-	<li><a href="https://modrinth.com/mod/Eoxi2LJd">Flow</a> by IMB11 (mineblock11)</li>
-	<li><a href="https://modrinth.com/mod/JSMwcdt3">Flower Tweaks</a> by aurum</li>
-	<li><a href="https://modrinth.com/mod/GGfyJWnG">Food Effect Tooltips</a> by Dafuqs</li>
-	<li><a href="https://modrinth.com/mod/xZQOoOaY">Footprint Particle</a> by Rimo</li>
-	<li><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/1vkzEZjE">Forgiving Void</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/XeEZ3fK2">Freecam</a> by hashalite</li>
-	<li><a href="https://modrinth.com/mod/POQ2i9zu">Friends&amp;Foes</a> by Faboslav</li>
-	<li><a href="https://modrinth.com/mod/Kt4RVKEd">Friends&amp;Foes - Beekeeper Hut</a> by Faboslav</li>
-	<li><a href="https://modrinth.com/mod/ECOSu6pa">Friends&amp;Foes - Flowery Mooblooms</a> by Faboslav</li>
-	<li><a href="https://modrinth.com/mod/9KawNmQc">FrozenLib</a> by Treetrain1, Luna</li>
-	<li><a href="https://modrinth.com/mod/p19vrgc2">Fusion</a> by SuperMartijn642</li>
-	<li><a href="https://modrinth.com/mod/hYykXjDp">Fzzy Config</a> by fzzyhmstrs</li>
-	<li><a href="https://modrinth.com/mod/bKQclmIt">Game Menu Remove GFARB</a> by MORIMORI0317</li>
-	<li><a href="https://modrinth.com/mod/8BmcQJ2H">GeckoLib 4</a> by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin</li>
-	<li><a href="https://modrinth.com/mod/hl5OLM95">Geophilic</a> by bebebea_loste</li>
-	<li><a href="https://modrinth.com/mod/QYfKDJOV">Gipples Galore</a> by Rowan, Monozari, sawlferton, Uraneptus, KingRolly, gaytwinkfemboy</li>
-	<li><a href="https://modrinth.com/mod/1S4LxcvL">Glowing Torchflower</a> by NikitaCartes</li>
-	<li><a href="https://modrinth.com/mod/6eYcaK0y">Good Recipes</a> by JotaPanden</li>
-	<li><a href="https://modrinth.com/mod/WC4UgDcZ">Grind Enchantments</a> by mschae23</li>
-	<li><a href="https://modrinth.com/mod/59rkB3YY">GuardVillagers</a> by MrSterner</li>
-	<li><a href="https://modrinth.com/mod/dWIHwNEE">HUD Lib</a> by Wooferz</li>
-	<li><a href="https://modrinth.com/mod/HqKoXaXz">Hardcore Revival</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/A41bVvas">Hardcover</a> by dicedpixels, marshmallow</li>
-	<li><a href="https://modrinth.com/mod/XCIMrYn0">Hearths</a> by bebebea_loste</li>
-	<li><a href="https://modrinth.com/mod/3wWtgZGB">Held Item Tooltips</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/sdSn3wvy">Hephaestus</a> by Slime Knights, AlphaMode</li>
-	<li><a href="https://modrinth.com/mod/GDmztpJg">Hero Proof</a> by Eugene</li>
-	<li><a href="https://modrinth.com/mod/RCK4uOMN">Hopper Gadgetry</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/24CSPS1E">Horse Expert</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/qIv5FhAA">Horseman</a> by mortuusars</li>
-	<li><a href="https://modrinth.com/mod/5faXoLqX">Iceberg</a> by Grend</li>
-	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> by RK_01</li>
-	<li><a href="https://modrinth.com/mod/vskzdsyT">Immersive Lanterns</a> by Toni</li>
-	<li><a href="https://modrinth.com/mod/uKjKoMsj">Immersive Thunder</a> by LeahPy</li>
-	<li><a href="https://modrinth.com/mod/9wv7LuMc">ImmersiveUI</a> by OctoStudios</li>
-	<li><a href="https://modrinth.com/mod/ZVzW5oNS">Incendium</a> by Stardust Labs</li>
-	<li><a href="https://modrinth.com/mod/Orvt0mRa">Indium</a> by comp500</li>
-	<li><a href="https://modrinth.com/mod/2raGoXFz">Infinity Buttons</a> by LarsMans</li>
-	<li><a href="https://modrinth.com/mod/I0UYcPa0">Inmis</a> by Draylar</li>
-	<li><a href="https://modrinth.com/mod/c4aa1Mqq">InmisAddon</a> by Globox_Z, Pois1x</li>
-	<li><a href="https://modrinth.com/mod/REfW2AEX">InvMove</a> by PieKing1215</li>
-	<li><a href="https://modrinth.com/mod/6IpcGP7T">InvMoveCompats</a> by PieKing1215</li>
-	<li><a href="https://modrinth.com/mod/Boon8xwi">Inventory Essentials</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/O7RBXm3n">Inventory Profiles Next</a> by mirinimi/blackd</li>
-	<li><a href="https://modrinth.com/mod/yQj7xqEM">Inventory Totem</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/YL57xq9U">Iris</a> by coderbot, IMS212, Justsnoopy30, FoundationGames</li>
-	<li><a href="https://modrinth.com/mod/TbriQCWD">GeckoLibIrisCompat</a> by ElocinDev</li>
-	<li><a href="https://modrinth.com/mod/QmCOBeSP">Iron Bookshelves</a> by jahirtrap</li>
-	<li><a href="https://modrinth.com/mod/UaizcMKP">Item Descriptions</a> by cassiancc</li>
-	<li><a href="https://modrinth.com/mod/cVNW5lr6">Highlighter</a> by Grend</li>
-	<li><a href="https://modrinth.com/mod/nvQzSEkH">Jade</a> by Snownee</li>
-	<li><a href="https://modrinth.com/mod/IYY9Siz8">JamLib</a> by Jamalam</li>
-	<li><a href="https://modrinth.com/mod/whv2X0ei">JobsAddon</a> by Globox_Z</li>
-	<li><a href="https://modrinth.com/mod/M1ZKbfkJ">JourneyMapIntegration</a> by frankV</li>
-	<li><a href="https://modrinth.com/mod/lfHFW1mp">Journeymap</a> by Mysticdrew, Techbrew</li>
-	<li><a href="https://modrinth.com/mod/4HeIHvIP">Jump Over Fences</a> by kreezxil, Eleksploded, MeeniMc</li>
-	<li><a href="https://modrinth.com/mod/u6dRKJwZ">Just Enough Items</a> by mezz</li>
-	<li><a href="https://modrinth.com/mod/ufdDoWPd">Kiwi Library</a> by Snownee</li>
-	<li><a href="https://modrinth.com/mod/J81TRJWm">Konkrete</a> by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> by tuxed</li>
-	<li><a href="https://modrinth.com/mod/qgWgCnzi">Lazy AI</a> by PixelIndieDev</li>
-	<li><a href="https://modrinth.com/mod/ppMUvsIg">Leaf Me Alone</a> by Nord_Act</li>
-	<li><a href="https://modrinth.com/mod/Kdz60Spo">Leather Bundles!</a> by bency</li>
-	<li><a href="https://modrinth.com/mod/gK9mebQg">Leave My Bars Alone</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/AVq17PqV">Leaves Be Gone</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/4NooE2hx">Lectern Overhaul</a> by Bimba</li>
-	<li><a href="https://modrinth.com/mod/nLlXyNIc">Let Sleeping Dogs Lie</a> by iChun</li>
-	<li><a href="https://modrinth.com/mod/gYeJFXyI">LetsDoCompatLevelZ</a> by xR4YM0ND</li>
-	<li><a href="https://modrinth.com/mod/EFtixeiF">LevelZ</a> by Globox_Z</li>
-	<li><a href="https://modrinth.com/mod/D2VVZrl3">LevelZ Additions</a> by HANAKZ, awdrewar, Caidrox</li>
-	<li><a href="https://modrinth.com/mod/WKwQAwke">LibJF</a> by JFronny</li>
-	<li><a href="https://modrinth.com/mod/yUBXc3AH">LibZ</a> by Globox_Z</li>
-	<li><a href="https://modrinth.com/mod/yjvKidNM">Lighty</a> by andi_makes, agnor99</li>
-	<li><a href="https://modrinth.com/mod/gvQqBUqZ">Lithium</a> by JellySquid, 2No2Name</li>
-	<li><a href="https://modrinth.com/mod/XaDC71GB">Lithostitched</a> by Apollo</li>
-	<li><a href="https://modrinth.com/mod/29SwBNOk">Luna Slimes</a> by Luna</li>
-	<li><a href="https://modrinth.com/mod/SNVQ2c0g">M.R.U</a></li>
-	<li><a href="https://modrinth.com/mod/BSidqwQl">MCRGB</a> by bacco</li>
-	<li><a href="https://modrinth.com/mod/E6BFl96N">ME Requester</a> by Almost Reliable</li>
-	<li><a href="https://modrinth.com/mod/jjuIRIVr">MEGA Cells</a> by 90</li>
-	<li><a href="https://modrinth.com/mod/GURcjz8O">Macaw's Bridges</a> by SketchMacaw</li>
-	<li><a href="https://modrinth.com/mod/dtWC90iB">Macaw's Furniture</a> by Sketch Macaw &amp; Peachy Macaw</li>
-	<li><a href="https://modrinth.com/mod/jorDmSKv">Magnum Torch</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop</a> by Tschipcraft</li>
-	<li><a href="https://modrinth.com/mod/t2QICuPq">Make IT Bigger 2.0</a> by Multyfora</li>
-	<li><a href="https://modrinth.com/mod/C255PPUX">Map Atlases</a> by MehVahdJukaar, Pepperoni__Jabroni__</li>
-	<li><a href="https://modrinth.com/mod/DuUMFIfX">MasterCutter</a> by Nico4play</li>
-	<li><a href="https://modrinth.com/mod/CVT4pFB2">Melody</a> by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/6pY6oEMg">Metal Bundles</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/codAaoxh">MidnightLib</a> by Motschen</li>
-	<li><a href="https://modrinth.com/mod/FyLFHdlz">MinGen</a> by nederliver</li>
-	<li><a href="https://modrinth.com/mod/SI5mk2b6">Mo Glass</a> by Alexander01998</li>
-	<li><a href="https://modrinth.com/mod/il1Aa7hO">More Variants</a> by Sygikal</li>
-	<li><a href="https://modrinth.com/mod/3Th5Ui01">Moar Advancements</a> by yousifgaming</li>
-	<li><a href="https://modrinth.com/mod/uLP7lWjS">Mob Spawner Recipe</a> by Raxture</li>
-	<li><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a> by Prospector, haykam821, TerraformersMC</li>
-	<li><a href="https://modrinth.com/mod/QdG47OkI">Model Gap Fix</a> by Mehvahdjukaar</li>
-	<li><a href="https://modrinth.com/mod/692GClaE">Modonomicon</a> by Kli Kli</li>
-	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> by MehVahdJukaar</li>
-	<li><a href="https://modrinth.com/mod/HKKqmr2p">More Chest Variants</a> by LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/Du77FavA">More Chests</a> by Nibaru</li>
-	<li><a href="https://modrinth.com/mod/YpyD6oK2">More Compatibility Variants [Let's Do]</a> by pnku</li>
-	<li><a href="https://modrinth.com/mod/znHQQtuU">More Delight</a> by Axperty</li>
-	<li><a href="https://modrinth.com/mod/aFKTqsnr">More Furnace Variants</a> by LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/KeuF6cVL">More Furnace Variants Z</a> by LogLauncher</li>
-	<li><a href="https://modrinth.com/mod/VNYXl8f7">More Grindstone Variants</a> by pnku, LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/bAEYHq3P">More Grindstone Variants Z</a> by LogLauncher</li>
-	<li><a href="https://modrinth.com/mod/yM3Gl0Pb">More Loom Variants</a> by pnku, LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/6vVw8pLd">More Loom Variants Z</a> by LogLauncher</li>
-	<li><a href="https://modrinth.com/mod/t3iWfx17">More Smithing Tables</a> by pnku</li>
-	<li><a href="https://modrinth.com/mod/MK1OVEeD">More Smithing Tables Z</a> by LogLauncher</li>
-	<li><a href="https://modrinth.com/mod/8HxZnUY7">More Smoker Variants</a> by pnku, LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/SoudCM4l">More Smoker Variants Z</a> by LogLauncher</li>
-	<li><a href="https://modrinth.com/mod/ZVv4e6pP">More Stick Variants (MStV)</a> by pnku</li>
-	<li><a href="https://modrinth.com/mod/SD0XUjSm">More Torch Variants (MStV+)</a> by pnku</li>
-	<li><a href="https://modrinth.com/mod/aC3cM3Vq">Mouse Tweaks</a> by Ivan Molodetskikh (YaLTeR)</li>
-	<li><a href="https://modrinth.com/mod/OJLdOa8k">Infinite Music</a> by PlasticStrawActivist</li>
-	<li><a href="https://modrinth.com/mod/WWbGcW12">Music Disc Advancements</a> by ALDgamer</li>
-	<li><a href="https://modrinth.com/mod/A4YQgwzz">Music Notification</a> by KosmoMoustache</li>
-	<li><a href="https://modrinth.com/mod/F8BQNPWX">Naturalist</a> by Starfish Studios</li>
-	<li><a href="https://modrinth.com/mod/bHJp2GRg">Nether Chested</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/KHwGUCPn">Nether Coords</a> by CaelenO42</li>
-	<li><a href="https://modrinth.com/mod/vI1QKJro">Nether Depths Upgrade</a> by Scouter</li>
-	<li><a href="https://modrinth.com/mod/nPZr02ET">NetherPortalFix</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/hQNz0rXp">Netherite But Cheaper</a> by LordEnder_Kitty</li>
-	<li><a href="https://modrinth.com/mod/WRs6iRSw">Netherite Extras</a> by SLH</li>
-	<li><a href="https://modrinth.com/mod/DDUhwDmz">Nifty Carts x Farm &amp; Charm</a> by Fyoncle</li>
-	<li><a href="https://modrinth.com/mod/CXd6g9xp">NiftyCarts</a> by MennoMax, paul101, jmb19905</li>
-	<li><a href="https://modrinth.com/mod/7YM5AXYm">No Animal Tempt Delay</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/6xKUDQcB">No Resource Pack Warnings</a> by Space Walker</li>
-	<li><a href="https://modrinth.com/mod/5QyCeANZ">NorthernCompass</a> by LX_Gaming</li>
-	<li><a href="https://modrinth.com/mod/MPCX6s5C">NotEnoughAnimations</a> by tr7zw</li>
-	<li><a href="https://modrinth.com/mod/LPjGiSO4">Nullscape</a> by Stardust Labs</li>
-	<li><a href="https://modrinth.com/mod/dOGM7ccu">Nyf's Spiders</a> by Nyfaria</li>
-	<li><a href="https://modrinth.com/mod/RH2KUdKJ">OctoLib</a> by OctoStudios</li>
-	<li><a href="https://modrinth.com/mod/g8NOG5OR">Oh The Trees You'll Grow</a> by Corgi Taco</li>
-	<li><a href="https://modrinth.com/mod/OB69KhRA">OrthoCamera</a> by DimasKama</li>
-	<li><a href="https://modrinth.com/mod/XD7XOrAF">Overflowing Bars</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/4k0QM1rC">Panorama Screens</a> by juancarloscp52(Im_JC)</li>
-	<li><a href="https://modrinth.com/mod/hD0W2Wde">Paper Doll</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/PLAGcSFJ">Particle Effects</a> by LopyMine, KlashRaick</li>
-	<li><a href="https://modrinth.com/mod/nrikgvxm">Particle Rain</a> by PigCart</li>
-	<li><a href="https://modrinth.com/mod/oRqU5wIm">PartyAddon</a> by Globox_Z</li>
-	<li><a href="https://modrinth.com/mod/CU0PAyzb">Paxi</a> by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/1iyNWBzA">Paxi Plus</a> by Lancet_</li>
-	<li><a href="https://modrinth.com/mod/TnOXNf5e">Peek</a> by Max Henkel</li>
-	<li><a href="https://modrinth.com/mod/op2i7EQi">Persistent Parrots</a> by boyonk</li>
-	<li><a href="https://modrinth.com/mod/ZX66K16c">Pick Up Notifier</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/eXts2L7r">Placeholder API</a> by Patbox</li>
-	<li><a href="https://modrinth.com/mod/i6fiqm5y">Platform</a> by ItsBlackGear</li>
-	<li><a href="https://modrinth.com/mod/e0Yt2i7Q">Player Locator Plus</a> by sit &lt;me@sit.sh&gt;</li>
-	<li><a href="https://modrinth.com/mod/VmcdxJxh">Plenty Plates</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/xGdtZczs">Polymer</a> by Patbox</li>
-	<li><a href="https://modrinth.com/mod/tagwiZkJ">Polymorph</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/VS1a14jA">Polymorphic Energistics</a> by 90</li>
-	<li><a href="https://modrinth.com/mod/3qAYkBMB">Polytone</a> by MehVahdJukaar</li>
-	<li><a href="https://modrinth.com/mod/xe4saW9d">Potion-Blender</a> by Motivational_Dragon</li>
-	<li><a href="https://modrinth.com/mod/DvScFbAS">Potions &amp; Such</a> by MagnusMakesGames</li>
-	<li><a href="https://modrinth.com/mod/rcTfTZr3">Presence Footsteps</a> by Hurricaaane (Ha3), Sollace</li>
-	<li><a href="https://modrinth.com/mod/FCFcFw09">Pufferfish's Attributes</a> by Pufferfish</li>
-	<li><a href="https://modrinth.com/mod/QAGBst4M">Puzzles Lib</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/N4z36VBo">pvptoggle</a> by Vilantious</li>
-	<li><a href="https://modrinth.com/mod/7jzrCiK0">Quad</a> by LieOnLion</li>
-	<li><a href="https://modrinth.com/mod/nCQRBEiR">Raised</a> by yurisuika</li>
-	<li><a href="https://modrinth.com/mod/AqaIIO6D">RangedWeaponAPI</a> by Daedelus</li>
-	<li><a href="https://modrinth.com/mod/r3VgI4QN">Reacharound</a> by spAnser</li>
-	<li><a href="https://modrinth.com/mod/7JCIgcfe">Realistic Fire Spread</a> by MoriyaShiine</li>
-	<li><a href="https://modrinth.com/mod/etNS9OnA">Recipe Book Is Pain</a> by melontini</li>
-	<li><a href="https://modrinth.com/mod/fRIu3HNp">Recipe Modification Lib</a> by Player005</li>
-	<li><a href="https://modrinth.com/mod/yfCkCdhj">Recipe Tweaks</a> by iNkoR_the_2nd, unroman</li>
-	<li><a href="https://modrinth.com/mod/CcL3MXyI">Recursive Resources</a> by enjarai, chylex</li>
-	<li><a href="https://modrinth.com/mod/DwE83ioX">Redstone Pen</a> by wilechaote</li>
-	<li><a href="https://modrinth.com/mod/ZP7xHXtw">Remove Reloading Screen</a> by dima_dencep</li>
-	<li><a href="https://modrinth.com/mod/muf0XoRe">Repurposed Structures</a> by TelepathicGrunt</li>
-	<li><a href="https://modrinth.com/mod/TiF5QWZY">Resource Pack Options</a> by JFronny</li>
-	<li><a href="https://modrinth.com/mod/YsFycamt">Resource Pack Overrides</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/M1953qlQ">Resourcefulconfig</a> by ThatGravyBoat</li>
-	<li><a href="https://modrinth.com/mod/G1hIVOrD">Resourceful Lib</a> by ThatGravyBoat, Epic_Oreo</li>
-	<li><a href="https://modrinth.com/mod/eXrl5E3G">Revelationary</a> by DaFuqs</li>
-	<li><a href="https://modrinth.com/mod/8YcE8y4T">Ribbits</a> by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios</li>
-	<li><a href="https://modrinth.com/mod/Cnejf5xM">Right Click Harvest</a> by Jamalam</li>
-	<li><a href="https://modrinth.com/mod/d89MaZQr">Rlhc New Disks</a> by ratsl, MCreator</li>
-	<li><a href="https://modrinth.com/mod/d4FrphnG">Rotten Flesh Leather</a> by cw</li>
-	<li><a href="https://modrinth.com/mod/lP9Yrr1E">Runes</a> by Daedelus</li>
-	<li><a href="https://modrinth.com/mod/fRbqPLg4">Satin</a> by Pyrofab</li>
-	<li><a href="https://modrinth.com/mod/UNlTQZ8V">Sculk Expansion</a> by badooga, rennen_rig</li>
-	<li><a href="https://modrinth.com/mod/fuuu3xnx">Searchables</a> by Jaredlll08</li>
-	<li><a href="https://modrinth.com/mod/xEu0FTVG">Separated Leaves</a> by LarsMans</li>
-	<li><a href="https://modrinth.com/mod/y9clIFY4">Shield API</a> by TheRedBrain</li>
-	<li><a href="https://modrinth.com/mod/HfLFMeJe">Walksy's Complete Shield Fixes</a> by Walksy</li>
-	<li><a href="https://modrinth.com/mod/aTaCgKLW">Silk (All modules)</a> by jakobkmar, _F0X</li>
-	<li><a href="https://modrinth.com/mod/3je4UK0t">Silk API</a> by §6Saikel Orado</li>
-	<li><a href="https://modrinth.com/mod/7P6tQJuB">Silk Touch Budding Amethyst [PurpurPack]</a> by Rhythmic, PurpurMC</li>
-	<li><a href="https://modrinth.com/mod/B92jc48r">Silk Touch Reinforced Deepslate [PurpurPack]</a> by Rhythmic, PurpurMC</li>
-	<li><a href="https://modrinth.com/mod/IXOXPWmA">Silk Touch Spawners</a> by ThePatriotsCommandXS</li>
-	<li><a href="https://modrinth.com/mod/rvaj4n3V">Simple Concrete</a> by Diemond_Player</li>
-	<li><a href="https://modrinth.com/mod/9r4ZkgSN">Simple Copper Pipes</a> by Luna, Treetrain1</li>
-	<li><a href="https://modrinth.com/mod/9eGKb6K1">Simple Voice Chat</a> by Max Henkel</li>
-	<li><a href="https://modrinth.com/mod/jn24bUJo">Skeleton AI Fix</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/3s19I5jr">SkinShuffle</a> by IMB11 (mineblock11), enjarai</li>
-	<li><a href="https://modrinth.com/mod/szwvGLF7">Smelt All Stone Blocks in Blast Furnaces</a> by Mars</li>
-	<li><a href="https://modrinth.com/mod/Vfhol2da">Smelting Clay &amp; Terracota in Blast Furnace</a> by Mars</li>
-	<li><a href="https://modrinth.com/mod/2qZKlpRW">Smeltable Ore Blocks</a> by Me424234123434</li>
-	<li><a href="https://modrinth.com/mod/NhwceuDF">Smelting Enchantment</a> by lullaby</li>
-	<li><a href="https://modrinth.com/mod/xDvYGZrH">Smelting Plus</a> by redstonegamesb</li>
-	<li><a href="https://modrinth.com/mod/GhemPlCv">Smelting Sand in a Blast Furnace</a> by Mars</li>
-	<li><a href="https://modrinth.com/mod/trr0scVt">Smooth Scrolling Refurbished</a> by JustAlittleWolf</li>
-	<li><a href="https://modrinth.com/mod/HaIJSYr6">Snow Pig</a> by Fabric port maintained by JustoPlayzz, Formerly by Dayofpi, Original mod by Uraneptus, Sounds by Luz#8017</li>
-	<li><a href="https://modrinth.com/mod/XVnUIUAQ">Snow Under Trees</a> by IMB11 (mineblock11), DeadlyMC, bl4ckscor3</li>
-	<li><a href="https://modrinth.com/mod/iJNje1E8">Snow! Real Magic!</a> by Snownee</li>
-	<li><a href="https://modrinth.com/mod/DbtUGm3z">Snowy Sniffer</a> by Swift</li>
-	<li><a href="https://modrinth.com/mod/nUsNRn4i">Snuffles</a> by Suel_ki</li>
-	<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> by JellySquid (jellysquid3)</li>
-	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> by FlashyReese</li>
-	<li><a href="https://modrinth.com/mod/vqqx0QiE">Sodium Extras</a> by toni</li>
-	<li><a href="https://modrinth.com/mod/rX9CuCdA">Soulbound Enchantment</a> by lullaby</li>
-	<li><a href="https://modrinth.com/mod/uY9zbflw">Sound Controller</a> by BVengo</li>
-	<li><a href="https://modrinth.com/mod/ZouiUX7t">Sounds</a></li>
-	<li><a href="https://modrinth.com/mod/qwvI41y9">SparseStructures</a> by MaxenceDC</li>
-	<li><a href="https://modrinth.com/mod/rex9wwpz">Spawn</a> by Ninni</li>
-	<li><a href="https://modrinth.com/mod/mkvFT6R6">Spice of Life:Fabric Flavor</a> by xianfish</li>
-	<li><a href="https://modrinth.com/mod/wtOPHICQ">SpiffyHUD</a> by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/cxe0fRnA">Splashscreen</a> by Samuel Bertrand</li>
-	<li><a href="https://modrinth.com/mod/mQWkB9ON">Stack Refill</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/HtGckJVc">Stack to Nearby Chests</a> by xiaocihua</li>
-	<li><a href="https://modrinth.com/mod/UYrNpKJN">Stacked Blocks</a> by Axperty</li>
-	<li><a href="https://modrinth.com/mod/LQlQFBH9">Stacked Blocks: Farmer's Delight</a> by Axperty</li>
-	<li><a href="https://modrinth.com/mod/vgtM0kV7">Stacked Blocks: Supplementaries</a> by Axperty</li>
-	<li><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a> by Neecko5b84</li>
-	<li><a href="https://modrinth.com/mod/ZPywkPEo">Steve's Realistic Sleep</a> by Steveplays28</li>
-	<li><a href="https://modrinth.com/mod/FzyTKtVF">Stoneworks</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/roNyMh7K">Storable Experience</a> by Diesse</li>
-	<li><a href="https://modrinth.com/mod/DKknxXqy">Stormfest</a> by Sydist: Programming, MisterKaze: Concept &amp; Music, Hitsuu: Design &amp; Art</li>
-	<li><a href="https://modrinth.com/mod/2fltysAl">Straw Statues</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/aKCwCJlY">Structory</a> by Stardust Labs</li>
-	<li><a href="https://modrinth.com/mod/j3FONRYr">Structory: Towers</a> by Stardust Labs</li>
-	<li><a href="https://modrinth.com/mod/LrYZi08Q">Structure Pool API</a> by Daedelus</li>
-	<li><a href="https://modrinth.com/mod/MBLj38R0">Suggestion Tweaker</a> by VelizarBG</li>
-	<li><a href="https://modrinth.com/mod/annHP7q0">Sunken Spires</a> by joshieman</li>
-	<li><a href="https://modrinth.com/mod/LN9BxssP">SuperMartijn642's Config Lib</a> by SuperMartijn642</li>
-	<li><a href="https://modrinth.com/mod/rOUBggPv">SuperMartijn642's Core Lib</a> by SuperMartijn642</li>
-	<li><a href="https://modrinth.com/mod/fFEIiSDQ">Supplementaries</a> by MehVahdJukaar, Plantkillable</li>
-	<li><a href="https://modrinth.com/mod/dCCkNFwE">Supplementaries Squared</a> by Mehvahdjukaar, Plantkillable</li>
-	<li><a href="https://modrinth.com/mod/tr2Mv6ke">Sushi Bar</a> by Chai</li>
-	<li><a href="https://modrinth.com/mod/Eldc1g37">TCD Commons API</a> by TheCSDev</li>
-	<li><a href="https://modrinth.com/mod/NcZSHHC2">Tameable Foxes</a> by Lancet_</li>
-	<li><a href="https://modrinth.com/mod/jCBrrLTs">Tax Free Levels</a> by Fourmisain</li>
-	<li><a href="https://modrinth.com/mod/kkmrDlKT">TerraBlender</a> by Adubbz</li>
-	<li><a href="https://modrinth.com/mod/t2pgJYye">TerraBlenderFix</a> by racconman</li>
-	<li><a href="https://modrinth.com/mod/8oi3bsk5">Terralith</a> by Stardust Labs</li>
-	<li><a href="https://modrinth.com/mod/Sb5ypgDP">This Rocks!</a> by Motschen, TeamMidnightDust</li>
-	<li><a href="https://modrinth.com/mod/A2xcMSUn">Tiny Skeletons</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/uXeEiQk1">Tool Trims</a> by JoeFly</li>
-	<li><a href="https://modrinth.com/mod/4jBWaiuq">Tooltip Rareness</a> by Globox_Z</li>
-	<li><a href="https://modrinth.com/mod/zTOq9jEI">Torch hit!</a> by Crystal Spider, Moonstone Webber, Noir</li>
-	<li><a href="https://modrinth.com/mod/qpPoAL6m">Trade Cycling</a> by Max Henkel</li>
-	<li><a href="https://modrinth.com/mod/8pcjMDgj">Trading Post</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/Koee7vhY">Trail&amp;Tales Delight</a> by shuixingshow, Vzling</li>
-	<li><a href="https://modrinth.com/mod/h2jngREY">Trek</a> by hotsuop, ALDgamer, Hugger</li>
-	<li><a href="https://modrinth.com/mod/5aaWibi9">Trinkets</a> by Emi, C4</li>
-	<li><a href="https://modrinth.com/mod/o8YrbYfv">Trowel</a> by TheEnderCore, Astra</li>
-	<li><a href="https://modrinth.com/mod/RG50cUrX">Twigs</a> by Ninni</li>
-	<li><a href="https://modrinth.com/mod/vBbPDuOs">TxniLib</a> by Toni</li>
-	<li><a href="https://modrinth.com/mod/66VIiT1y">Universal Bone Meal</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/68kWHuUF">Universal Ores</a> by Hugman</li>
-	<li><a href="https://modrinth.com/mod/ThFWvdF1">Unnamed Desert</a> by UnnamedGlitch</li>
-	<li><a href="https://modrinth.com/mod/2a8fg8M6">Unnamed Sea</a> by UnnamedGlitch</li>
-	<li><a href="https://modrinth.com/mod/E4q8dYNM">VariantAPI</a> by Sygikal</li>
-	<li><a href="https://modrinth.com/mod/Na8nA0jA">Vegan Delight</a></li>
-	<li><a href="https://modrinth.com/mod/bRAPbNyF">Vein Mining</a> by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/KplTt9Ku">Village Spawn Point</a> by Rick South</li>
-	<li><a href="https://modrinth.com/mod/oHGMwNDR">Villagers Plus</a> by Finallion</li>
-	<li><a href="https://modrinth.com/mod/itzZXRxq">Vistas</a> by LudoCrypt, Prospector, TerraformersMC</li>
-	<li><a href="https://modrinth.com/mod/kfqD1JRw">Visual Workbench</a> by Fuzs</li>
-	<li><a href="https://modrinth.com/mod/rI0hvYcd">Visuality</a> by PinkGoosik</li>
-	<li><a href="https://modrinth.com/mod/dlNu0RQY">Wakes</a> by Goby56</li>
-	<li><a href="https://modrinth.com/mod/pC9ELBuh">WaxedIcons</a> by Fanya__</li>
-	<li><a href="https://modrinth.com/mod/LOpKHB2A">Waystones</a> by BlayTheNinth</li>
-	<li><a href="https://modrinth.com/mod/AtB5mHky">What Are They Up To</a> by Corosus</li>
-	<li><a href="https://modrinth.com/mod/II7t6llZ">William Wythers Overhauled Overworld [FORGE]</a> by William Wyther</li>
-	<li><a href="https://modrinth.com/mod/YkKeggdl">World Play Time</a> by Khajiitos</li>
-	<li><a href="https://modrinth.com/mod/qi1sj2da">YDM's Weapon Master</a> by YourDailyModder</li>
-	<li><a href="https://modrinth.com/mod/Ua7DFN59">YUNG's API</a> by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/Dfu00ggU">YUNG's Better Caves</a> by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/XNlO7sBv">YUNG's Better Desert Temples</a> by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/o1C1Dkj5">YUNG's Better Dungeons</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/2BwBOmBQ">YUNG's Better End Island</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/z9Ve58Ih">YUNG's Better Jungle Temples</a> by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/HjmxVlSr">YUNG's Better Mineshafts</a> by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/Z2mXHnxP">YUNG's Better Nether Fortresses</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/3dT9sgt4">YUNG's Better Ocean Monuments</a> by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/kidLKymU">YUNG's Better Strongholds</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/t5FRdP87">YUNG's Better Witch Huts</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/ZYgyPyfq">YUNG's Extras</a> by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/Hcy2DFKF">YUNG's Menu Tweaks</a> by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/HaaH232J">Yeetus Experimentus</a> by Sunekaer</li>
-	<li><a href="https://modrinth.com/mod/1eAoo2KR">YetAnotherConfigLib</a> by isXander</li>
-	<li><a href="https://modrinth.com/mod/wTFALvR2">Ytones</a> by RiciJak, TehNut, Fuzs</li>
-	<li><a href="https://modrinth.com/mod/w7ThoJFB">Zoomify</a> by isXander</li>
-	<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> by Traben</li>
-	<li><a href="https://modrinth.com/mod/20p2kirx">[Let's Do Addon] Corn Expansion</a> by Ninjdai, KalWantsPizza, Satisfy</li>
-	<li><a href="https://modrinth.com/mod/oNB5jhlA">[Let's Do] Bakery</a> by satisfy</li>
-	<li><a href="https://modrinth.com/mod/qwbArkQk">[Let's Do] Candlelight</a> by satisfy</li>
-	<li><a href="https://modrinth.com/mod/HJetCzWo">[Let's Do] Farm &amp; Charm</a> by satisfy, jason13official</li>
-	<li><a href="https://modrinth.com/mod/3JQDJrYW">[Let's Do] Furniture</a> by berksire, satisfy, cph101</li>
-	<li><a href="https://modrinth.com/mod/Eh11TaTm">[Let's Do] HerbalBrews</a> by satisfy</li>
-	<li><a href="https://modrinth.com/mod/ra7o6Sl7">[Let's Do] Meadow</a> by satisfy, Jason13</li>
-	<li><a href="https://modrinth.com/mod/4TTDxtOx">[Let's Do] NetherVinery</a> by satisfy</li>
-	<li><a href="https://modrinth.com/mod/1DWmBJVA">[Let's Do] Vinery</a> by Jason13Official, Satisfy</li>
-	<li><a href="https://modrinth.com/mod/1FeCSXTY">craftquests music disc collection</a> by craftquest</li>
-	<li><a href="https://modrinth.com/mod/yANxwqSX">filament</a> by tomalbrc</li>
-	<li><a href="https://modrinth.com/mod/W6ROj0Hl">iChunUtil</a> by iChun</li>
-	<li><a href="https://modrinth.com/mod/onSQdWhM">libIPN</a> by mirinimi/blackd</li>
-	<li><a href="https://modrinth.com/mod/mMMzI1Bu">oSzoukaua's: Bee Small</a> by oSzoukaua</li>
-	<li><a href="https://modrinth.com/mod/ccKDOlHs">oωo</a> by glisco, BasiqueEvangelist, Noaaan</li>
-	<li><a href="https://modrinth.com/mod/SU4YwX00">tsa-planks</a></li>
+	<li><a href="https://modrinth.com/mod/chatanimation">ChatAnimation</a> by Ezzenix</li>
+	<li><a href="https://modrinth.com/datapack/cheaper-maps">Cheaper Maps</a> by Sorcell</li>
+	<li>Cherished Worlds by Illusive Soulworks</li>
+	<li>Chime by Emi</li>
+	<li>Chipped by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat</li>
+	<li>Clean F3 by tyrannus</li>
+	<li>Clean Tooltips by stal111</li>
+	<li><a href="https://modrinth.com/mod/clickthrough+">ClickThrough Plus</a> by cassiancc</li>
+	<li><a href="https://mods.twelveiterations.com/mc/clienttweaks">Client Tweaks</a> by BlayTheNinth</li>
+	<li><a href="https://github.com/Fuzss/climaterivers">Climate Rivers</a> by Fuzs</li>
+	<li><a href="https://minecraft.curseforge.com/projects/cloth-config">Cloth Config v11</a> by shedaniel</li>
+	<li><a href="https://mcdoc.zeith.org/docs/category/cloudflared">Cloudflared</a> by Zeitheron</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps</a> by Jaredlll08</li>
+	<li><a href="https://modrinth.com/mod/clutter">Clutter</a> by EmilSG</li>
+	<li><a href="https://modrinth.com/mod/cluttered">Cluttered</a> by blake, MCreator</li>
+	<li><a href="https://modrinth.com/mod/cobweb">Cobweb</a> by Crystal Spider, Moonstone Webber, Noir</li>
+	<li><a href="https://serilum.com/mod/collective">Collective</a> by Rick South</li>
+	<li>Comfortable Campfires by cassiancc</li>
+	<li>Comforts by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/c2me-fabric">Concurrent Chunk Management Engine</a> by RelativityMC, ishland</li>
+	<li><a href="https://github.com/Fuzss/configureddefaults">Configured Defaults</a> by Fuzs</li>
+	<li><a href="https://domi.re/mc-mods/doors">Connected Doors</a> by Domi</li>
+	<li><a href="https://modrinth.com/mod/continuity">Continuity</a> by PepperCode1</li>
+	<li><a href="https://minecraft.curseforge.com/projects/controlling">Controlling For Fabric</a> by Jaredlll08</li>
+	<li>CoolRain by Jaiz</li>
+	<li>Cooldown Coordinator by GniftyGnome</li>
+	<li>CoroUtil by Corosus</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/crawl">Crawl</a> by fewizz, McSkinnerOG, Chocohead</li>
+	<li>CreativeCore by CreativeMD, AriaFreeze</li>
+	<li>Creeper Overhaul by Artist/Creator - Joosh, Dev - ThatGravyBoat</li>
+	<li>Critters and Companions by Joosh, EterDelta</li>
+	<li>CropXp by uema5a</li>
+	<li>Crops Love Rain by ThePoultryMan</li>
+	<li><a href="https://serilum.com/mod/crying-portals">Crying Portals</a> by Rick South</li>
+	<li><a href="https://github.com/Kir-Antipov/cubes-without-borders">Cubes Without Borders</a> by Kir_Antipov</li>
+	<li><a href="https://github.com/Fuzss/cutthrough">Cut Through</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen">Dark Loading Screen</a> by Neecko5b84</li>
+	<li><a href="https://github.com/txnimc/DarkWindowBar/">Dark Window Bar</a> by Toni</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/dark-paintings">DarkPaintings</a> by Darkhax</li>
+	<li><a href="https://fabricmc.net/">Dawn Of Time</a> by Poulpinou &amp; TheGoldenWorld</li>
+	<li><a href="https://isxander.dev">Debugify</a> by isXander</li>
+	<li>Decorative Blocks by Lilypuree, Stohun</li>
+	<li><a href="https://modrinth.com/mod/deimos">Deimos</a> by Mars</li>
+	<li>Detail Armor Bar by RedLime</li>
+	<li>DhApi</li>
+	<li><a href="https://github.com/Fuzss/diagonalfences">Diagonal Fences</a> by Fuzs, XFactHD</li>
+	<li><a href="https://github.com/Fuzss/diagonalwalls">Diagonal Walls</a> by Fuzs, XFactHD</li>
+	<li><a href="https://github.com/Fuzss/diagonalwindows">Diagonal Windows</a> by Fuzs, XFactHD</li>
+	<li><a href="https://serilum.com/mod/dismount-entity">Dismount Entity</a> by Rick South</li>
+	<li><a href="https://modrinth.com/mod/distanthorizons">Distant Horizons</a></li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/distracting-trims">DistractingTrims</a> by Darkhax</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/doggy-talents-next">Doggy Talents Next</a> by DashieDev, MashXP</li>
+	<li><a href="https://github.com/PieKing1215/DripSounds">Drip Sounds</a> by PieKing1215</li>
+	<li>Drippy Loading Screen by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/drop-spread-2">DropSpread</a> by TorNato</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/duckling">Duckling</a> by Artist - Frogipher, Dev - ThatGravyBoat</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/durability-tooltip">Durability Tooltip</a> by SuperMartijn642</li>
+	<li><a href="https://modrinth.com/mod/durability_visibility_options">Durability Visibility Options</a> by Danrus110_</li>
+	<li><a href="https://modrinth.com/datapack/dye-tweaks">Dye Tweaks</a> by aurum</li>
+	<li><a href="https://yurisuika.dev">Dyed</a> by yurisuika</li>
+	<li><a href="https://dapprgames.com/mods">Dynamic FPS</a> by juliand665, LostLuma</li>
+	<li>EMI by Emi</li>
+	<li><a href="https://github.com/Fuzss/easyanvils">Easy Anvils</a> by Fuzs</li>
+	<li><a href="https://github.com/Fuzss/easymagic">Easy Magic</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/members/theone_ss">Eating Animation</a> by theone_ss, spusik_, PinkGoosik, DoctorNight1</li>
+	<li><a href="https://github.com/Fuzss/echochest">Echo Chest</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/effectual">Effectual</a> by iMeeTake</li>
+	<li>Eggstractor-Enchantment by woulvee</li>
+	<li><a href="https://modrinth.com/datapack/elementz">ElementZ</a> by wekt</li>
+	<li>Elytra Slot by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/elytra-trims">Elytra Trims</a> by KikuGie</li>
+	<li><a href="https://modrinth.com/mod/elytra-trims-extensions">Elytra Trims Extensions</a> by KikuGie</li>
+	<li>Enchant Icon by YuriCat, 水蓝冰青</li>
+	<li><a href="https://verticalslabs.enchanted.games/">Enchanted Vertical Slabs</a> by Enchanted_Games</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions">EnchantmentDescriptions</a> by Darkhax</li>
+	<li><a href="https://github.com/Fuzss/enderzoology">Ender Zoology</a> by Fuzs</li>
+	<li>Enderman Overhaul by Alex Nijjar, Joosh</li>
+	<li><a href="https://github.com/Minenash/Enhanced-Attack-Indicator">Enhanced Attack Indicator</a> by Minenash</li>
+	<li><a href="https://github.com/FoundationGames/EnhancedBlockEntities">Enhanced Block Entities</a> by FoundationGames</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/entity-model-features">Entity Model Features</a> by Traben</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric">Entity Texture Features</a> by Traben</li>
+	<li><a href="https://modrinth.com/mod/entityculling">EntityCulling</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/datapack/even-more-levelz-support">Even more LevelZ support</a> by aslakm</li>
+	<li><a href="https://github.com/tr7zw">Exordium</a> by tr7zw, katietheqt</li>
+	<li>Exp Ores by TriQue</li>
+	<li><a href="https://github.com/tristankechlo/Explorations">Explorations</a> by Buecher_wurm</li>
+	<li><a href="https://modrinth.com/datapack/explorify">Explorify</a> by bebebea_loste</li>
+	<li>Explosive Enhancement by Superkat32</li>
+	<li><a href="https://space.bilibili.com/87328531">Extended Block Shapes</a> by SolidBlock</li>
+	<li><a href="https://github.com/Arborsm/ExtraSoundsNext">ExtraSounds Next</a> by Arbor, stashymane</li>
+	<li><a href="https://fabricmc.net">Fabric API</a> by FabricMC</li>
+	<li><a href="https://minecraft.curseforge.com/projects/fabric-language-kotlin">Fabric Language Kotlin</a> by FabricMC</li>
+	<li><a href="https://github.com/ramidzkh/fabrishot#readme">Fabrishot</a> by ramidzkh</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/fadeless">Fadeless</a> by UltimateBoomer, DerpDerpling</li>
+	<li>FancyMenu by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/fast-ip-ping">Fast IP Ping</a> by Fallen_Breath</li>
+	<li><a href="https://github.com/Fuzss/fastitemframes">Fast Item Frames</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric">FerriteCore</a> by malte0811</li>
+	<li>FishingReal by PricelessKoala</li>
+	<li><a href="https://imb11.dev/">Flow</a> by IMB11 (mineblock11)</li>
+	<li><a href="https://modrinth.com/datapack/flower-tweaks">Flower Tweaks</a> by aurum</li>
+	<li>Food Effect Tooltips by Dafuqs</li>
+	<li>Footprint Particle by Rimo</li>
+	<li><a href="https://github.com/Fuzss/forgeconfigapiport">Forge Config API Port</a> by Fuzs</li>
+	<li><a href="https://mods.twelveiterations.com/mc/forgivingvoid">Forgiving Void</a> by BlayTheNinth</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/free-cam">Freecam</a> by hashalite</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/friendly-fire">FriendlyFire</a> by Darkhax</li>
+	<li><a href="https://github.com/Faboslav/friends-and-foes">Friends&amp;Foes</a> by Faboslav</li>
+	<li><a href="https://github.com/Faboslav/friends-and-foes-beekeeper-hut-beekeeper-hut">Friends&amp;Foes - Beekeeper Hut</a> by Faboslav</li>
+	<li><a href="https://github.com/Faboslav/friends-and-foes-flowery-mooblooms">Friends&amp;Foes - Flowery Mooblooms</a> by Faboslav</li>
+	<li><a href="https://www.modrinth.com/mod/FrozenLib">FrozenLib</a> by Treetrain1, Luna</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures">Fusion</a> by SuperMartijn642</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/fzzy-config">Fzzy Config</a> by fzzyhmstrs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb">Game Menu Remove GFARB</a> by MORIMORI0317</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/geckolib">GeckoLib 4</a> by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin</li>
+	<li>GeckoLibIrisCompat by ElocinDev</li>
+	<li><a href="https://modrinth.com/datapack/geophilic">Geophilic</a> by bebebea_loste</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/goodrecipes">Good Recipes</a> by JotaPanden</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/grind-enchantments">Grind Enchantments</a> by mschae23</li>
+	<li>GuardVillagers by MrSterner</li>
+	<li><a href="https://twitter.com/TeamAbodeMC">Guarding</a> by Team Abode</li>
+	<li>Handcrafted by Alex Nijjar, Kekie6</li>
+	<li>Hardcover by dicedpixels, marshmallow</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/hearth-and-home">Hearth &amp; Home</a> by Starfish Studios</li>
+	<li><a href="https://modrinth.com/datapack/hearths">Hearths</a> by bebebea_loste</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/held-item-info">Held Item Info</a> by Neecko5b84</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/herdspanic">Herds Panic</a> by Globox_Z, Abbanon</li>
+	<li><a href="https://modrinth.com/datapack/hero-proof">Hero Proof</a> by Eugene</li>
+	<li><a href="https://teamresourceful.com">Highlight</a> by ThatGravyBoat</li>
+	<li><a href="https://anthonyhilyard.com/">Highlighter</a> by Grend</li>
+	<li><a href="https://modrinth.com/mod/horse-armor-stand">Horse Armor Stand Mod</a> by HyeroDrimm</li>
+	<li><a href="https://github.com/Fuzss/horseexpert">Horse Expert</a> by Fuzs</li>
+	<li><a href="https://modrinth.com/mod/horsebuff">HorseBuff</a> by CodeF53#0241</li>
+	<li>HorseInBoat by Legosteenjaap</li>
+	<li><a href="https://anthonyhilyard.com/">Iceberg</a> by Grend</li>
+	<li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by RK_01</li>
+	<li><a href="https://github.com/txnimc/ImmersiveLanterns/">Immersive Lanterns</a> by Toni</li>
+	<li><a href="https://github.com/LeahPy/ImmersiveThunder">Immersive Thunder</a> by LeahPy</li>
+	<li>ImmersiveUI by OctoStudios</li>
+	<li><a href="https://www.stardustlabs.net/">Incendium</a> by Stardust Labs</li>
+	<li><a href="https://modrinth.com/mod/indium">Indium</a> by comp500</li>
+	<li><a href="https://modrinth.com/mod/infinite-music">Infinite Music</a> by PlasticStrawActivist</li>
+	<li>Infinity with Mending by GoForceX</li>
+	<li>Inmis by Draylar</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/inmisaddon">InmisAddon</a> by Globox_Z, Pois1x</li>
+	<li><a href="https://github.com/PieKing1215/InvMove">InvMove</a> by PieKing1215</li>
+	<li><a href="https://github.com/PieKing1215/InvMoveCompats">InvMoveCompats</a> by PieKing1215</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">Inventory Profiles Next</a> by mirinimi/blackd</li>
+	<li><a href="https://serilum.com/mod/inventory-totem">Inventory Totem</a> by Rick South</li>
+	<li><a href="https://github.com/IrisShaders/Iris">Iris</a> by coderbot, IMS212, Justsnoopy30, FoundationGames</li>
+	<li><a href="https://anthonyhilyard.com/">Item Borders</a> by Grend</li>
+	<li><a href="https://moddedmc.wiki/en/project/item-descriptions/">Item Descriptions</a> by cassiancc</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jade">Jade</a> by Snownee</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric">Jade Addons</a> by Snownee</li>
+	<li><a href="https://github.com/JamCoreModding/jamlib">JamLib</a> by Jamalam</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jobsaddon">JobsAddon</a> by Globox_Z</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jump-over-fences">Jump Over Fences</a> by kreezxil, Eleksploded, MeeniMc</li>
+	<li><a href="https://github.com/Christofmeg/JustEnoughBreeding">Just Enough Breeding</a> by Christofmeg</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jeed">Just Enough Effects Descriptions</a> by Mehvahdjukaar, Plantkillable</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items</a> by mezz</li>
+	<li><a href="https://github.com/0ql/kaffees_dual_ride">Kaffee's Dual Ride</a> by Kaffee</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/kambrik">Kambrik</a> by Ejektaflex</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/kiwi-fabric">Kiwi Library</a> by Snownee</li>
+	<li>Konkrete by Keksuccino</li>
+	<li>Krypton by tuxed</li>
+	<li><a href="https://lambdaurora.dev/projects/lambdynamiclights">LambDynamicLights</a> by LambdAurora</li>
+	<li><a href="https://modrinth.com/mod/language-reload">Language Reload</a> by Jerozgen</li>
+	<li>Leaf Me Alone by Nord_Act</li>
+	<li><a href="https://mcreator.net">Leather Bundles!</a> by bency</li>
+	<li><a href="https://github.com/Fuzss/leavemybarsalone">Leave My Bars Alone</a> by Fuzs</li>
+	<li><a href="https://github.com/Fuzss/leavesbegone">Leaves Be Gone</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/members/ohaiichun/projects">Let Sleeping Dogs Lie</a> by iChun</li>
+	<li>LetsDoCompatLevelZ by xR4YM0ND</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/levelz">LevelZ</a> by Globox_Z</li>
+	<li><a href="https://modrinth.com/mod/levelz-additions">LevelZ Additions</a> by HANAKZ, awdrewar, Caidrox</li>
+	<li><a href="https://jfronny.gitlab.io">LibJF</a> by JFronny</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/libz">LibZ</a> by Globox_Z</li>
+	<li>Lighty by andi_makes, agnor99</li>
+	<li><a href="https://jellysquid.me/projects/">Lithium</a> by JellySquid, 2No2Name</li>
+	<li><a href="https://modrinth.com/mod/lithostitched/">Lithostitched</a> by Apollo</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/log-begone">Log Begone</a> by AzureDoom, Bravarly</li>
+	<li><a href="https://almostreliable.com/">ME Requester</a> by Almost Reliable</li>
+	<li><a href="https://mega.90.gripe">MEGA Cells</a> by 90</li>
+	<li>MRU-1.0.4+1.20.1+fabric</li>
+	<li><a href="https://tschipcraft.ddns.net/make_bubbles_pop.html">Make Bubbles Pop</a> by Tschipcraft</li>
+	<li><a href="https://fabricmc.net/">Make IT Bigger 2.0</a> by Multyfora</li>
+	<li><a href="https://modrinth.com/mod/mastercutter">MasterCutter</a> by Nico4play</li>
+	<li>Melody by Keksuccino</li>
+	<li><a href="https://github.com/fxmorin/memoryleakfix">Memory Leak Fix</a> by FX - PR0CESS</li>
+	<li><a href="https://github.com/Fuzss/metalbundles">Metal Bundles</a> by Fuzs</li>
+	<li><a href="https://www.midnightdust.eu/">MidnightLib</a> by Motschen</li>
+	<li><a href="https://modrinth.com/datapack/mingen">MinGen</a> by nederliver</li>
+	<li><a href="https://fishstiz.github.io/minecraft-cursor-wiki/">Minecraft Cursor</a> by fishstiz</li>
+	<li><a href="https://modrinth.com/datapack/minibossbars">Miniboss Bars</a> by Boid</li>
+	<li><a href="https://modrinth.com/mod/mixintrace">MixinTrace</a> by comp500</li>
+	<li><a href="https://www.wimods.net/mo-glass/?utm_source=Mo+Glass&amp;utm_medium=ModMenu&amp;utm_content=Mo+Glass+ModMenu+website+link">Mo Glass</a> by Alexander01998</li>
+	<li>Moar Discs by Eclipse_L_ §oOwner§r, T_en_M §oMusic Artist§r</li>
+	<li><a href="https://github.com/pcal43/">Mob Filter</a> by pcal</li>
+	<li><a href="https://modrinth.com/mod/modmenu">Mod Menu</a> by Prospector, haykam821, TerraformersMC</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/model-gap-fix">Model Gap Fix</a> by Mehvahdjukaar</li>
+	<li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by embeddedt</li>
+	<li>Monsters in the Closet by Minenash</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/selene">Moonlight</a> by MehVahdJukaar</li>
+	<li><a href="https://www.youtube.com/@Funnel404">Mooshees</a> by Funnel</li>
+	<li><a href="https://serilum.com/mod/mooshroom-tweaks">Mooshroom Tweaks</a> by Rick South</li>
+	<li><a href="https://github.com/masik16u/More-Armor-Trims-Fabric">More Armor Trims</a> by Masik16u</li>
+	<li><a href="https://discord.gg/NvwhXq493P">More Axolotl Variants API</a> by AkashiiKun, KxmischesDomi</li>
+	<li>More Axolotl Variants Mod by AkashiiKun</li>
+	<li><a href="https://lieonlion.github.io/LieOnLion/">More Chest Variants</a> by LieOnLion</li>
+	<li><a href="https://github.com/fxmorin/moreculling">More Culling</a> by FX - PR0CESS</li>
+	<li><a href="https://github.com/MoreMcmeta/core">MoreMcmeta</a> by soir20</li>
+	<li><a href="https://github.com/MoreMcmeta/emissive-plugin">MoreMcmeta Emissive Textures Plugin</a> by soir20</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks</a> by Ivan Molodetskikh (YaLTeR)</li>
+	<li><a href="https://modrinth.com/datapack/music-disc-advancements">Music Disc Advancements</a> by ALDgamer</li>
+	<li><a href="https://mod.kosmo.ovh/">Music Notification</a> by KosmoMoustache</li>
+	<li><a href="https://github.com/theendercore/NarrusYeetus">Narrus Yeetus</a> by TheEnderCore</li>
+	<li>Neat by Vazkii, williewillus, Alwinfy</li>
+	<li><a href="https://github.com/Fuzss/netherchested">Nether Chested</a> by Fuzs</li>
+	<li><a href="https://github.com/Scouter456/Nether_Depths_Upgrade">Nether Depths Upgrade</a> by Scouter</li>
+	<li><a href="https://modrinth.com/datapack/netherweather">Nether Weather</a> by iNkoR_the_2nd, SquizzleDizzle, Floiden</li>
+	<li><a href="https://mods.twelveiterations.com/mc/netherportalfix">NetherPortalFix</a> by BlayTheNinth</li>
+	<li><a href="https://modrinth.com/datapack/nbc">Netherite But Cheaper</a> by LordEnder_Kitty</li>
+	<li><a href="https://hafemann.xyz/">Netherite Extras</a> by SLH</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-netherite-horse-armor">Netherite Horse Armor</a> by JerryLu086</li>
+	<li><a href="https://legacy.curseforge.com/members/1_block_microwave/projects">NetherrackBlasting</a> by Mars</li>
+	<li><a href="https://modrinth.com/datapack/nifty-carts-x-farm-and-charm">Nifty Carts x Farm &amp; Charm</a> by Fyoncle</li>
+	<li><a href="https://modrinth.com/mod/niftycarts">NiftyCarts</a> by MennoMax, paul101, jmb19905</li>
+	<li><a href="https://serilum.com/mod/no-animal-tempt-delay">No Animal Tempt Delay</a> by Rick South</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">No Chat Reports</a> by Aizistral</li>
+	<li><a href="https://modrinth.com/datapack/no-enderman-grief">No Enderman Grief</a> by Jodek</li>
+	<li><a href="https://github.com/Erb3/NoHotbarLooping">No Hotbar Looping</a> by Erb3, Contributors</li>
+	<li><a href="https://modrinth.com/mod/no-resource-pack-warnings">No Resource Pack Warnings</a> by Space Walker</li>
+	<li><a href="https://github.com/kb-1000/no-telemetry">No Telemetry</a> by kb1000</li>
+	<li>Not Enough Recipe Book by OctoStudios</li>
+	<li><a href="https://modrinth.com/mod/not-enough-animations">NotEnoughAnimations</a> by tr7zw</li>
+	<li><a href="https://www.stardustlabs.net/">Nullscape</a> by Stardust Labs</li>
+	<li>Nyf's Quivers by TheNyfaria</li>
+	<li>Nyf's Spiders by Nyfaria</li>
+	<li>OctoLib by OctoStudios</li>
+	<li>Omni-Hopper by enjarai</li>
+	<li><a href="https://opekope2.dev/OptiGUI">OptiGUI</a> by opekope2</li>
+	<li>OrthoCamera by DimasKama</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/panorama-screens">Panorama Screens</a> by juancarloscp52(Im_JC)</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/particle-core">Particle Core</a> by fzzyhmstrs</li>
+	<li><a href="https://modrinth.com/mod/particle_effects">Particle Effects</a> by LopyMine, KlashRaick</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/partyaddon">PartyAddon</a> by Globox_Z</li>
+	<li><a href="https://serilum.com/mod/passive-shield">Passive Shield</a> by Rick South</li>
+	<li><a href="https://modrinth.com/mod/pathunderfencegates">Path Under Fence Gates</a> by Steveplays28</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi-fabric">Paxi</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://modrinth.com/mod/paxiplus">Paxi Plus</a> by Lancet_</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/peek">Peek</a> by Max Henkel</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/ruins">Philip`s Ruins</a> by Philip</li>
+	<li><a href="https://github.com/Fuzss/pickupnotifier">Pick Up Notifier</a> by Fuzs</li>
+	<li><a href="kosmx.dev">Player Animator</a> by KosmX  </li>
+	<li><a href="https://modrinth.com/mod/player-locator-plus">Player Locator Plus</a> by sit &lt;me@sit.sh&gt;</li>
+	<li><a href="https://github.com/Fuzss/plentyplates">Plenty Plates</a> by Fuzs</li>
+	<li><a href="https://pb4.eu">Polymer</a> by Patbox</li>
+	<li>Polymorph by Illusive Soulworks</li>
+	<li><a href="https://github.com/62832/PolymorphicEnergistics">Polymorphic Energistics</a> by 90</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/polytone">Polytone</a> by MehVahdJukaar</li>
+	<li><a href="https://github.com/motivational-dragon">Potion-Blender</a> by Motivational_Dragon</li>
+	<li><a href="https://fabricmc.net/">Potions &amp; Such</a> by MagnusMakesGames</li>
+	<li>Presence Footsteps by Hurricaaane (Ha3), Sollace</li>
+	<li><a href="https://anthonyhilyard.com/">Prism</a> by Grend</li>
+	<li>Pufferfish's Attributes by Pufferfish</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/purediscslofi">Pure Discs - Lofi Edition</a> by purejosh</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/pure-discs-trails-tales-fabric-forge">Pure Discs - Trails &amp; Tales</a> by purejosh</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/purediscstrickytrials">Pure Discs - Tricky Trials</a> by purejosh</li>
+	<li><a href="https://github.com/Fuzss/puzzleslib">Puzzles Lib</a> by Fuzs</li>
+	<li><a href="https://lieonlion.github.io/">Quad</a> by LieOnLion</li>
+	<li><a href="https://yurisuika.dev">Raised</a> by yurisuika</li>
+	<li>Recipe Book Is Pain by melontini</li>
+	<li>Recipe Modification Lib by Player005</li>
+	<li><a href="https://fabricmc.net/">Recipe Tweaks</a> by PsiTheGuy</li>
+	<li><a href="https://enjarai.dev">Recursive Resources</a> by enjarai, chylex</li>
+	<li><a href="https://github.com/FlashyReese/reeses-sodium-options">Reese's Sodium Options</a> by FlashyReese</li>
+	<li><a href="https://curseforge.com/minecraft/mc-mods/rrls">Remove Reloading Screen</a> by dima_dencep</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/repurposed-structures">Repurposed Structures</a> by TelepathicGrunt</li>
+	<li><a href="https://github.com/Fuzss/resourcepackoverrides">Resource Pack Overrides</a> by Fuzs</li>
+	<li><a href="https://resourcefulbees.com">Resourceful Lib</a> by ThatGravyBoat, Epic_Oreo</li>
+	<li><a href="https://resourcefulbees.com">Resourcefulconfig</a> by ThatGravyBoat</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/ribbits">Ribbits</a> by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios</li>
+	<li><a href="https://github.com/JamCoreModding/right-click-harvest">Right Click Harvest</a> by Jamalam</li>
+	<li><a href="https://mcreator.net">Rlhc New Disks</a> by ratsl, MCreator</li>
+	<li><a href="https://github.com/Devan-Kerman/RRP#readme">Runtime Resource Pack</a> by HalfOf2</li>
+	<li><a href="https://serilum.com/mod/scaffolding-drops-nearby">Scaffolding Drops Nearby</a> by Rick South</li>
+	<li><a href="https://modrinth.com/mod/scribble">Scribble</a> by chrrrs</li>
+	<li><a href="https://minecraft.curseforge.com/projects/searchables">Searchables</a> by Jaredlll08</li>
+	<li><a href="https://modrinth.com/mod/secure-crops">Secure Crops</a> by zekk051</li>
+	<li>Separated Leaves by LarsMans</li>
+	<li><a href="https://github.com/Exopandora/ShoulderSurfing">Shoulder Surfing Reloaded</a> by Exopandora</li>
+	<li><a href="https://minecraft.curseforge.com/projects/shulkerboxtooltip">Shulker Box Tooltip</a> by MisterPeModder</li>
+	<li><a href="https://serilum.com/mod/shulker-drops-two">Shulker Drops Two</a> by Rick South</li>
+	<li><a href="https://github.com/JamCoreModding/shut-up-gl-error">Shut Up GL Error</a> by Jamalam</li>
+	<li><a href="https://github.com/SilkMC/silk">Silk (All modules)</a> by jakobkmar, _F0X</li>
+	<li><a href="https://modrinth.com/datapack/purpurpacks-silk-touch-budding-amethyst">Silk Touch Budding Amethyst [PurpurPack]</a> by Rhythmic, PurpurMC</li>
+	<li><a href="https://modrinth.com/datapack/purpurpacks-silk-touch-reinforced-deepslate">Silk Touch Reinforced Deepslate [PurpurPack]</a> by Rhythmic, PurpurMC</li>
+	<li><a href="https://modrinth.com/datapack/silk-touch-less-enderchest">Silk Touch-less Enderchest</a> by Walls</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/silkspawners/">SilkSpawners</a> by LordDeatHunter</li>
+	<li>Simple Concrete by Diemond_Player</li>
+	<li><a href="https://github.com/AViewFromTheTop/SimpleCopperPipesMC">Simple Copper Pipes</a> by Luna, Treetrain1</li>
+	<li><a href="https://modrinth.com/datapack/simple-homing-xp">Simple Homing XP</a> by ItsVoidSK</li>
+	<li><a href="https://github.com/soradgaming/Simple-HUD-Enhanced">Simple Hud Enhanced</a> by SoRadGaming</li>
+	<li><a href="https://modrepo.de/minecraft/voicechat/overview">Simple Voice Chat</a> by Max Henkel</li>
+	<li><a href="https://modrinth.com/mod/simple-armor-hud">Simple armor hud</a> by LegoRaft</li>
+	<li><a href="https://curseforge.com/minecraft/mc-mods/sit-fabric">Sit</a> by bl4ckscor3</li>
+	<li>SkinShuffle by IMB11 (mineblock11), enjarai</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/smarterfarmers">Smarter Farmers</a> by Mehvahdjukaar</li>
+	<li><a href="https://modrinth.com/datapack/smelting-cobblestone-in-blast-a-furnace-fabricforge">Smelt All Stone Blocks in Blast Furnaces</a> by Mars</li>
+	<li><a href="https://modrinth.com/user/SchitzPseudonym">Smelt Touch</a> by SchitzPseudonym</li>
+	<li>Smeltable Ore Blocks by Me424234123434</li>
+	<li><a href="https://modrinth.com/mod/blasting-clay-and-clay-balls">Smelting Clay &amp; Terracota in Blast Furnace</a> by Mars</li>
+	<li><a href="https://modrinth.com/datapack/smelting-plus">Smelting Plus</a> by redstonegamesb</li>
+	<li><a href="https://modrinth.com/mod/smelting-sand-in-blast-furnace">Smelting Sand in a Blast Furnace</a> by Mars</li>
+	<li>Smooth Scrolling Refurbished by JustAlittleWolf</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/snow-pig-fabric">Snow Pig</a> by Fabric port maintained by JustoPlayzz, Formerly by Dayofpi, Original mod by Uraneptus, Sounds by Luz#8017</li>
+	<li><a href="https://IMB11.dev/">Snow Under Trees</a> by IMB11 (mineblock11), DeadlyMC, bl4ckscor3</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/snowrealmagic">Snow! Real Magic!</a> by Snownee</li>
+	<li><a href="https://modrinth.com/datapack/better-snowy-biome">Snowy Biomes: Enhanced</a> by e3l3rno</li>
+	<li><a href="https://modrinth.com/mod/snow-sniffer">Snowy Sniffer</a> by Swift</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/snuffles-fabric">Snuffles</a> by Suel_ki</li>
+	<li><a href="https://github.com/CaffeineMC/sodium-fabric">Sodium</a> by JellySquid (jellysquid3)</li>
+	<li><a href="https://modrinth.com/mod/sodium-extra">Sodium Extra</a> by FlashyReese</li>
+	<li><a href="https://github.com/txnimc/SodiumExtras/">Sodium Extras</a> by toni</li>
+	<li><a href="https://github.com/txnimc/SodiumOptionsAPI/">Sodium Options API</a> by toni</li>
+	<li><a href="https://github.com/txnimc/SodiumOptionsModCompat/">Sodium Options Mod Compat</a> by Toni, DeeChael</li>
+	<li>Sodium Shadowy Path Blocks by Rynnavinx</li>
+	<li><a href="https://modrinth.com/mod/soul-fire-d">Soul Fire'd</a> by Crystal Spider, Moonstone Webber, Noir</li>
+	<li>Soulbound by iMoonDay</li>
+	<li>Sound Controller by BVengo</li>
+	<li>Sounds-2.2.1+1.20.1+fabric</li>
+	<li><a href="https://modrinth.com/mod/sparsestructures">SparseStructures</a> by MaxenceDC</li>
+	<li>Spawn by Ninni</li>
+	<li>SpiffyHUD by Keksuccino</li>
+	<li>Splashscreen by Samuel Bertrand</li>
+	<li><a href="https://modrinth.com/datapack/stack-enchants">Stack Enchants</a> by InventoStarz</li>
+	<li><a href="https://serilum.com/mod/stack-refill">Stack Refill</a> by Rick South</li>
+	<li>StackDeobfuscator by booky10</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/starlight">Starlight</a> by Spottedleaf</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/status-effect-bars">Status Effect Bars</a> by Neecko5b84</li>
+	<li><a href="https://modrinth.com/mod/stevesrealisticsleep">Steve's Realistic Sleep</a> by Steveplays28</li>
+	<li><a href="https://github.com/Fuzss/stoneworks">Stoneworks</a> by Fuzs</li>
+	<li><a href="https://discord.gg/ySCQH4PPmC">Stormfest</a> by Sydist: Programming, MisterKaze: Concept &amp; Music, Hitsuu: Design &amp; Art</li>
+	<li><a href="https://www.stardustlabs.net/">Structory</a> by Stardust Labs</li>
+	<li><a href="https://www.stardustlabs.net/">Structory: Towers</a> by Stardust Labs</li>
+	<li><a href="https://github.com/Faboslav/structurify">Structurify</a> by Faboslav</li>
+	<li>Suggestion Tweaker by VelizarBG</li>
+	<li><a href="https://modrinth.com/datapack/sunken-spires">Sunken Spires</a> by joshieman</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib">SuperMartijn642's Config Lib</a> by SuperMartijn642</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib">SuperMartijn642's Core Lib</a> by SuperMartijn642</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/supplementaries">Supplementaries</a> by MehVahdJukaar, Plantkillable</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/suppsquared">Supplementaries Squared</a> by Mehvahdjukaar, Plantkillable</li>
+	<li><a href="https://serilum.com/mod/surface-mushrooms">Surface Mushrooms</a> by Rick South</li>
+	<li><a href="https://modrinth.com/mod/sushi-bar/">Sushi Bar</a> by Chai</li>
+	<li><a href="https://github.com/TheCSDev">TCD Commons API</a> by TheCSDev</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/tlib">TLib</a> by iMeeTake</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/talkbubbles">Talk Bubbles</a> by Globox_Z</li>
+	<li><a href="https://modrinth.com/mod/tameable-foxes">Tameable Foxes</a> by Lancet_</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/tax-free-levels">Tax Free Levels</a> by Fourmisain</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/terrablender">TerraBlender</a> by Adubbz</li>
+	<li>TerraBlenderFix by racconman</li>
+	<li><a href="https://www.stardustlabs.net/">Terralith</a> by Stardust Labs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-lost-castle-fabric">The Lost Castle</a> by Jack Bagel, GilVoisard</li>
+	<li><a href="https://www.midnightdust.eu/">This Rocks!</a> by Motschen, TeamMidnightDust</li>
+	<li>ThreadTweak by getchoo, UltimateBoomer, fantahund</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/tips">Tips</a> by Darkhax</li>
+	<li><a href="https://modrinth.com/datapack/tool-trims">Tool Trims</a> by JoeFly</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/tooltiprareness">Tooltip Rareness</a> by Globox_Z</li>
+	<li><a href="https://modrinth.com/mod/torch-hit">Torch hit!</a> by Crystal Spider, Moonstone Webber, Noir</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/trade-cycling">Trade Cycling</a> by Max Henkel</li>
+	<li><a href="https://github.com/Fuzss/tradingpost">Trading Post</a> by Fuzs</li>
+	<li><a href="https://modrinth.com/datapack/trek">Trek</a> by hotsuop, ALDgamer, Hugger</li>
+	<li><a href="https://modrinth.com/mod/trimmed/">Trimmed</a> by dhyces</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric">Trinkets</a> by Emi, C4</li>
+	<li><a href="https://modrinth.com/datapack/true-ending">True Ending: Ender Dragon Overhaul</a> by limesplatus</li>
+	<li>Twigs by Ninni</li>
+	<li><a href="https://github.com/txnimc/TxniLib/">TxniLib</a> by Toni</li>
+	<li><a href="https://github.com/Fuzss/universalbonemeal-forge">Universal Bone Meal</a> by Fuzs</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/sawmill">Universal Sawmill</a> by MehVahdJukaar</li>
+	<li><a href="https://pb4.eu">Universal Shops</a> by Patbox</li>
+	<li><a href="https://modrinth.com/mod/unnamed-desert">Unnamed Desert</a> by UnnamedGlitch</li>
+	<li><a href="https://modrinth.com/mod/unnamed-sea">Unnamed Sea</a> by UnnamedGlitch</li>
+	<li>Unsafe World Random Access Detector by ishland</li>
+	<li><a href="https://serilum.com/mod/village-spawn-point">Village Spawn Point</a> by Rick South</li>
+	<li><a href="https://serilum.com/mod/villager-names">Villager Names</a> by Rick South</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages">Villages &amp; Pillages</a> by Faboslav</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/vistas">Vistas</a> by LudoCrypt, Prospector, TerraformersMC</li>
+	<li><a href="https://github.com/Fuzss/visualworkbench">Visual Workbench</a> by Fuzs</li>
+	<li><a href="https://modrinth.com/mod/visuality">Visuality</a> by PinkGoosik</li>
+	<li><a href="https://modrinth.com/mod/wakes">Wakes</a> by Goby56</li>
+	<li><a href="https://discord.com/invite/zeu7uNuBWY">Walksy's Complete Shield Fixes</a> by Walksy</li>
+	<li><a href="https://modrinth.com/mod/wavey-capes">WaveyCapes</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/mod/waxed-icons">WaxedIcons</a> by Dhyces</li>
+	<li><a href="https://github.com/lack/way2wayfabric">Way2Way</a> by lack</li>
+	<li><a href="https://blay09.net/">Waystones</a> by BlayTheNinth</li>
+	<li><a href="https://serilum.com/mod/weaker-spiderwebs">Weaker Spiderwebs</a> by Rick South</li>
+	<li>What Are They Up To by Corosus</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/what-the-bucket">WhatTheBucket</a> by Darkhax</li>
+	<li><a href="https://github.com/Khajiitos/WorldPlayTime">World Play Time</a> by Khajiitos</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap</a> by xaero96</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map</a> by xaero96</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/ydms-weapon-master">YDM's Weapon Master</a> by YourDailyModder</li>
+	<li>YOSBR by shedaniel</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric">YUNG's API</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric">YUNG's Better Desert Temples</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric">YUNG's Better Dungeons</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric">YUNG's Better End Island</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric">YUNG's Better Jungle Temples</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric">YUNG's Better Mineshafts</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric">YUNG's Better Nether Fortresses</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric">YUNG's Better Ocean Monuments</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric">YUNG's Better Strongholds</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric">YUNG's Better Witch Huts</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric">YUNG's Bridges</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric">YUNG's Extras</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks-fabric">YUNG's Menu Tweaks</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus">Yeetus Experimentus</a> by Sunekaer</li>
+	<li>YetAnotherConfigLib by isXander</li>
+	<li><a href="https://github.com/Fuzss/ytones">Ytones</a> by RiciJak, TehNut, Fuzs</li>
+	<li><a href="https://isxander.dev">Zoomify</a> by isXander</li>
+	<li><a href="https://modrinth.com/project/lets-do-addon-corn-expansion">[Let's Do Addon] Corn Expansion</a> by Ninjdai, KalWantsPizza, Satisfy</li>
+	<li><a href="https://modrinth.com/project/lets-do-meadow-sawmill-compat">[Let's Do Meadow] - Sawmill Compat</a> by Fyoncle</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/do-api">[Let's Do] API</a> by Cristelknight, BaumeisterJO</li>
+	<li>[Let's Do] Farm &amp; Charm by satisfy, jason13official</li>
+	<li>[Let's Do] HerbalBrews by satisfy</li>
+	<li><a href="https://legacy.curseforge.com/minecraft/mc-mods/lets-do-meadow">[Let's Do] Meadow</a> by satisfy, Jason13</li>
+	<li><a href="https://mcreator.net">craftquests music disc collection</a> by craftquest</li>
+	<li><a href="https://e4mc.link/">e4mc</a> by skyevg</li>
+	<li><a href="https://modrinth.com/datapack/epic-structures-villages">epicvillages</a> by ATi</li>
+	<li>filament by tomalbrc</li>
+	<li><a href="https://www.curseforge.com/members/ohaiichun/projects">iChunUtil</a> by iChun</li>
+	<li><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">libIPN</a> by mirinimi/blackd</li>
+	<li>oωo by glisco, BasiqueEvangelist, Noaaan</li>
+	<li>tsa-planks</li>
+	<li><a href="https://modrinth.com/mod/anti-creeper">§3§lAntiCreeper</a> by §2P§3l§4a§5i§6n§7s§bVillager</li>
 </ul>
 </details>
 
 <details>
-
-<summary>Resource Packs (55)</summary>
-
-#### Main Resource Packs (21)
-
-* [Actually 3D Plants](https://modrinth.com/resourcepack/actually-3d-plants)
-* [Actually 3D Stuff](https://modrinth.com/resourcepack/actually-3d-stuff) by arch1vways
-* [AL's Dungeons Boss Bars](https://modrinth.com/resourcepack/als-dungeons-boss-bars) by ALtheGatorMC
-* [AL's Skeletons Revamped](https://modrinth.com/resourcepack/als-skeletons-revamped) by ALtheGatorMC
-* [Armorstands Reimagined](https://modrinth.com/resourcepack/armorstands-reimagined) by Reijvi
-* [Artisanal Nether Bricks](https://modrinth.com/resourcepack/artisanal-nether-bricks) by 2DWisp
-* [Artisans Armory](https://modrinth.com/resourcepack/artisans-armory) by Ragon
-* [Atmospheric Skies & Fog](https://modrinth.com/resourcepack/atmospheric-skies-fog) by kvquang
-* [Baby Animals Remastered](https://modrinth.com/resourcepack/baby-animals-remastered) by Futureazoo
-* [Bare Bones Tweaks - Alternate Bedrock](https://modrinth.com/resourcepack/bare-bones-tweaks-alternate-bedrock) by BeagleNF4O4
-* [Better Boats](https://modrinth.com/resourcepack/better-boats) by PystoyPlayer
-* [Better Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) by Braytonks & cyberia
-* [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
-* [Bray Cyber 3D Enchanted Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) by Braytonks & cyberia
-* [Cobbled Paths](https://modrinth.com/resourcepack/cobbled-paths) by kchem
-* [Creepers Reforged x FA](https://modrinth.com/resourcepack/creepers-reforged-x-fa)
-* [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd) by CountXD
-* [FA Extensions - Bray's ChestFix](https://modrinth.com/resourcepack/fa-extensions-brays-chestfix) by Braytonks
-* [Fabulous Fences](https://modrinth.com/resourcepack/fabulous-fences)
-* [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by robotkoer
-* [Flower Clusters](https://modrinth.com/resourcepack/flower-clusters) by azeolii\_
-* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX
-* [Fresh Animations Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions) by FreshLX
-* [Fresh Buckets](https://modrinth.com/resourcepack/fresh-buckets)
-* [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots) by BlueHDGaming
-* [Fresh Flower Pots Rotated](https://modrinth.com/resourcepack/fresh-flower-pots-rotated) by BlueHDGaming
-* [Fresh Flower Pots: Compats](https://modrinth.com/resourcepack/fresh-flower-pots-compats) by Fyoncle
-* [Fresh Lanostry Foxes](https://modrinth.com/resourcepack/freshlanostryfoxes) by F708 & Lanostry
-* [Fresh Outlines](https://modrinth.com/resourcepack/fresh-outlines) by JoaquiX
-* [Glowing Glints](https://modrinth.com/resourcepack/glowing-glints)
-* [Golden Carrot Hunger Bar](https://modrinth.com/resourcepack/garrot-hunger-bar) by wil
-* [GUI Revision Dark](https://modrinth.com/resourcepack/gui-revision-dark) by Emploice
-* [HIDYKs REALM](https://modrinth.com/resourcepack/hidyksrealm) by Hidykkk
-* [Icons](https://modrinth.com/resourcepack/icons) by mr\_ch0c0late & Zartrix
-* [Icons Compats](https://modrinth.com/resourcepack/icons-compats) by Fyoncle
-* [Improved Netherite](https://modrinth.com/resourcepack/improved-netherite) by IIzh
-* [Itemless Item Frames](https://modrinth.com/resourcepack/itemless-item-frames) by indygowithay
-* [Lanostry Foxes](https://modrinth.com/resourcepack/lanostryfoxes) by Lanostry
-* [More Piglins with Fresh Animations](https://modrinth.com/resourcepack/morepiglins-with-fresh-animations) by MrFabichGM
-* [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) by Motschen
-* [Netherite Extras x FA Extensions](https://modrinth.com/resourcepack/netherite-extras-x-fresh-animations-extensions) by SLH & proxi
-* [PvP Crosshair](https://modrinth.com/resourcepack/pvp-crosshair) by Discorde
-* [qrafty's Capitalized Font](https://modrinth.com/resourcepack/qraftys-capitalized-font) by qrafty & Drqad
-* [Shield By Side](https://modrinth.com/resourcepack/shield-by-side)
-* [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers) by 2DWisp
-* [Simplistic 3D Doors](https://modrinth.com/resourcepack/simplistic-3d-doors) by Jadestrouble
-* [Slim Fire](https://modrinth.com/resourcepack/slim-fire) by Crystal Nest
-* [Spawn Egg Backport](https://modrinth.com/resourcepack/spawn-egg-backport)
-* [Unlit Campfires](https://modrinth.com/resourcepack/unlit-campfires) by Fyoncle
-* [Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims) by thanos
-* [Vocal Villagers](https://modrinth.com/resourcepack/vvi) by Owehttamy
-* [VVI (Vocal Villagers)](https://modrinth.com/resourcepack/vvi) by Owehttamy
-* [What Painting I'm Looking At](https://modrinth.com/resourcepack/wpila) by bangetto
-* [3D Glass Pane](https://modrinth.com/resourcepack/3d-glass-pane) by cyberbro16
-* [3D Ladders](https://modrinth.com/resourcepack/3d-ladders)
-
+<summary>Resource Packs (38)</summary>
+</ul>
+    <li><a href="https://modrinth.com/resourcepack/unlit-campfires">Unlit Campfires</a> by Fyoncle</li>
+    <li><a href="https://modrinth.com/resourcepack/blues-better-skeletons">Blue's Better Skeletons</a> by Mrblueyeti</li>
+    <li><a href="https://modrinth.com/resourcepack/shield-by-side">Shield By Side</a> by zanderest</li>
+    <li><a href="https://modrinth.com/resourcepack/slimarmors">Slim Armors</a> by theAlexBR</li>
+    <li><a href="https://modrinth.com/resourcepack/vvi">Vocal Villagers</a> by Owehttamy</li>
+    <li><a href="https://modrinth.com/resourcepack/fresh-flower-pots">Fresh Flower Pots</a> by BlueHDGaming</li>
+    <li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a> by FreshLX</li>
+    <li><a href="https://modrinth.com/resourcepack/fast-better-grass">Fast Better Grass</a> by Fabulously Optimized</li>
+    <li><a href="https://modrinth.com/resourcepack/wisps-better-lanterns">Wisp's Better Lanterns</a> by 2DWisp</li>
+    <li><a href="https://modrinth.com/resourcepack/simplistic-3d-doors">Simplistic 3D Doors</a> by Jadestrouble</li>
+    <li><a href="https://modrinth.com/resourcepack/itemless-item-frames">Itemless Item Frames</a> by indygowithay</li>
+    <li><a href="https://modrinth.com/resourcepack/visual-armor-trims">Visual Armor Trims</a> by thanos</li>
+    <li><a href="https://modrinth.com/resourcepack/fresh-buckets">Fresh Buckets</a> by cyber</li>
+    <li><a href="https://modrinth.com/resourcepack/icons-fix">Icons Fix</a> by MiladMoro88</li>
+    <li><a href="https://modrinth.com/resourcepack/fresh-flower-pots-rotated">Fresh Flower Pots Rotated</a> by BlueHDGaming</li>
+    <li><a href="https://modrinth.com/resourcepack/simple-grass-flowers">Simple Grass Flowers</a> by 2DWisp</li>
+    <li><a href="https://modrinth.com/resourcepack/3d-glass-pane">3D Glass Pane</a> by cyberbro16</li>
+    <li><a href="https://modrinth.com/resourcepack/icons">Icons</a> by WeNAN</li>
+    <li><a href="https://modrinth.com/resourcepack/garrot-hunger-bar">Garrot Hunger Bar</a> by wil</li>
+    <li><a href="https://modrinth.com/resourcepack/3d-ladders">3D Ladders</a> by Nico4play</li>
+    <li><a href="https://modrinth.com/resourcepack/artisans-armory">Artisan's Armory</a> by Ragon</li>
+    <li><a href="https://modrinth.com/resourcepack/atmospheric-skies-fog">Atmospheric Skies &amp; Fog</a> by kvquang</li>
+    <li><a href="https://modrinth.com/resourcepack/3d-workbenches">Actually 3D Workbenches</a> by Chomik_Oto</li>
+    <li><a href="https://modrinth.com/resourcepack/3d-furnaces">Actually 3D Furnaces</a> by Chomik_Oto</li>
+    <li><a href="https://modrinth.com/resourcepack/armorstands-reimagined">Armorstands Reimagined</a> by Reijvi</li>
+    <li><a href="https://modrinth.com/resourcepack/wpila">What Painting I'm Looking At</a> by bangetto</li>
+    <li><a href="https://modrinth.com/resourcepack/cobbled-paths">Cobbled Paths</a> by Garden Gals</li>
+    <li><a href="https://modrinth.com/resourcepack/improved-netherite">Improved Netherite</a> by IIzh</li>
+    <li><a href="https://modrinth.com/resourcepack/slim-fire">Slim Fire</a> by Crystal Nest</li>
+    <li><a href="https://modrinth.com/resourcepack/gui-revision-dark">GUI Revision Dark</a> by Emploice</li>
+    <li><a href="https://modrinth.com/resourcepack/netherite-extras-x-fresh-animations-extensions">Netherite Extras x FA Extensions</a> by SLH</li>
+    <li><a href="https://modrinth.com/resourcepack/qraftys-capitalized-font">qrafty's Capitalized Font</a> by qrafty</li>
+    <li><a href="https://modrinth.com/resourcepack/3d-crops">3D Crops Revamped</a> by vexcenot</li>
+    <li><a href="https://modrinth.com/resourcepack/fabulous-fences">Fabulous Fences</a> by SageAxolotl</li>
+    <li><a href="https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books">Bray &amp; Cyber's Better Fresher 3D Books</a> by Braytonks</li>
+    <li><a href="https://modrinth.com/resourcepack/morepiglins-with-fresh-animations">More Piglins x Fresh Animations</a> by MrFabichGM</li>
+</ul>
 </details>
 
 <details>
-
-<summary>Shaders [3]</summary>
-
-* [BSL Shaders by CaptTatsu](https://modrinth.com/shader/bsl-shaders) by X0nk
-* [Complementary Unbound](https://modrinth.com/shader/complementary-unbound) by EminGT
-* [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) by EminGT
-
+<summary>Shaders [5]</summary>
+<ul>
+    <li><a href="https://modrinth.com/shader/bsl-shaders">BSL Shaders</a> by CaptTatsu</li>
+    <li><a href="https://modrinth.com/shader/complementary-unbound">Complementary Shaders - Unbound</a> by EminGT</li>
+    <li><a href="https://modrinth.com/shader/bliss-shader">Bliss Shaders</a> by X0nk</li>
+    <li><a href="https://modrinth.com/shader/complementary-reimagined">Complementary Shaders - Reimagined</a> by EminGT</li>
+    <li><a href="https://modrinth.com/shader/photon-shader">Photon Shaders</a> by sixthsurge</li>
+</ul>
 </details>
